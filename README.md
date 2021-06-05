@@ -39,7 +39,7 @@ Before you start using Yield Yak, you will need:
 
 For help getting started, please see this guide from Ava Labs:
 
-{% embed url="https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche" %}
+{% embed url="https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche" caption="" %}
 
 ## Can I lose money?
 
@@ -57,3 +57,4 @@ If you are not sure about something, ask our community.
 * [Twitter](https://twitter.com/yieldyak_)
 
 .
+
