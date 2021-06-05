@@ -23,8 +23,6 @@
 
 ## More Info
 
----
-
 * [Website](https://yieldyak.com/)
 * [Twitter](https://twitter.com/yieldyak_)
 * [Telegram](https://t.me/yieldyak)
