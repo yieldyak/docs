@@ -35,7 +35,7 @@ Yield Yak自動複利計算挖礦獎勵。
 開始使用Yield Yak前，你將需要：
 
 1. MetaMask
-2. 於你MetaMask帳戶內有一定AVAX於雪崩C-鏈（Avalanche C-Chain subnet）上
+2. 於你MetaMask帳戶內有一定AVAX於雪崩C鏈（Avalanche C-Chain subnet）上
 
 如你需要協助，請參考由Ava Labs提供的指南：
 
