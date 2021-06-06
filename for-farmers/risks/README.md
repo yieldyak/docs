@@ -1,2 +1,2 @@
-# Farming Risks
+# 挖礦風險
 

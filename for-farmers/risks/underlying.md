@@ -1,12 +1,12 @@
-# Underlying Assets
+# 相關資產（Underlying Assets）
 
-## **Help! Why is my TVL figure going down? Am I losing money?**
+## 幫幫我！為甚麼我的總鎖定價值降低了？我損失了金錢嗎？
 
-Your TVL \(Total Value Locked\) within Yield Yak is represented in USD and the price is obtained from CoinGecko’s price feed. The TVL is calculated by taking the farmers underlying assets in the farm and converting to the current price in USD. This means that if the price of the underlying assets fluctuates against the US Dollar then the value of your TVL will fluctuate also. Remember, however, that the auto-compounding is still adding LP tokens to your share of the farm. So, whilst your TVL represented in USD may have decreased in value, you are still increasing your LP tokens and getting the benefit of Yield Yak’s auto-compounding.
+你於Yield Yak的總鎖定價值是以美金表示，而價格資訊則來自CoinGecko。總鎖定價值是把挖礦者的礦池內相關資產轉換為當前美金價格。這意味著當相關資產的價格相對於美金波動時，你的總鎖定價值也會一同波動。但請僅記自動複利計算系統仍為你不停增加池內LP代幣數。所以，即使你以美金表示的總鎖定價值下跌，你仍享用Yield Yak自動複利計算系統帶來的好處並正不停增加LP代幣。
 
-## Smart Contract Risk
+## 智能合約風險
 
-Yield Yak interacts with many external smart contracts. Yield Yak users take smart contract risk on Yield Yak contracts themselves, plus any external contracts Yield Yak interacts with.
+Yield Yak與大量的外部智能合約互動。Yield Yak用家在面對Yield Yak自己的智能合約風險時還需要面對與Yield Yak互動的智能合約的風險。
 
-Deposits for each Yield Yak farm are isolated, meaning that assets held in "risky" farms cannot affect assets held in "safe" farms.
+每個Yield Yak礦池的存款都是獨立的，在高風險風礦池內的資產將無法影響在低風險礦池內的資產。
 
