@@ -56,5 +56,3 @@ Yield Yak的智能合約並未被審核。Yield Yak的運作亦需要依賴其�
 * [Telegram](https://t.me/yieldyak)
 * [Twitter](https://twitter.com/yieldyak_)
 
-.
-
