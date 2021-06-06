@@ -1,65 +1,65 @@
-# The Reinvest Button
+# Le bouton de réinvestissement
 
-## Do I need to press the reinvest button?
+## Dois-je appuyer sur le bouton de réinvestissement ?
 
-No. Someone else will press it for you to earn the reward.
+Non. Quelqu'un d'autre appuiera sur ce bouton pour vous permettre de gagner la récompense.
 
-## How does it work?
+## Comment cela fonctionne ?
 
-The reinvest button takes all pending rewards from a pool, converts them into the farm asset, and reinvests them back into the pool to compound deposits for everyone in the farm.
+Le bouton de réinvestissement prend toutes les récompenses en attente d'une pool, les convertit en actif de la ferme, et les réinvestit dans le pool pour composer les dépôts de tous les membres de la ferme.
 
-There is a variable reward to incentivize users to press that button. Whoever is first to press the button, earns the reward and compounds everyone's deposits.
+Il y a une récompense variable pour inciter les utilisateurs à appuyer sur ce bouton. Celui qui est le premier à appuyer sur le bouton, gagne la récompense et compose les dépôts de tout le monde.
 
-## When should I press it?
+## Quand faut-il appuyer sur ce bouton ?
 
-The reinvest button is optional. You do not need to press it. However, you might be motivated to press it to earn the reward.
+Le bouton de réinvestissement est facultatif. Vous n'êtes pas obligé d'appuyer dessus. Cependant, vous pouvez être motivé à appuyer sur ce bouton afin de gagner la récompense.
 
-If your goal is to net gain in AVAX, then you need to consider the reward token / AVAX price ratio, transaction cost for reinvesting for that particular pool, the transaction cost for swapping the reward token into AVAX, etc.
+Si votre objectif est de réaliser un gain net en AVAX, vous devez alors prendre en compte le ratio jeton de récompense / prix de l'AVAX, le coût de transaction pour réinvestir pour cette pool en particulier, le coût de transaction pour échanger le jeton de récompense en AVAX, etc.
 
-You do not need to participate in the pool to be able to receive the reinvest reward. Anyone pressing the button and completing the transaction will receive the reward. With that in mind, it can be competitive, so be sure to be quick.
+Il n'est pas nécessaire de participer à la pool pour pouvoir recevoir la récompense de réinvestissement. Toute personne qui appuie sur le bouton et effectue la transaction recevra la récompense. En gardant cela à l'esprit, cela peut être compétitif, alors assurez-vous d'être rapide.
 
-## Example of the Reinvest Process
+## Exemple de processus de réinvestissement
 
-So for example, let's say you're in the below pool \(Pangolin ETH-AVAX / PEFI\). 
+Par exemple, disons que vous êtes dans la pool ci-dessous \(Pangolin ETH-AVAX / PEFI\). 
 
 ![](../.gitbook/assets/screen-shot-2021-05-14-at-9.06.18-pm.png)
 
-By participating in this pool, you have provided liquidity on Pangolin in the form of ETH and AVAX and you have deposited those LP tokens in the Yield Yak farm. Those LP tokens are then being deposited on Penguin Finance and the rewards for this pool are given in PEFI.
+En participant à cette pool, vous avez fourni des liquidités sur Pangolin sous forme d'ETH et d'AVAX et vous avez déposé ces jetons LP dans la ferme Yield Yak. Ces jetons LP sont ensuite déposés sur Penguin Finance et les récompenses pour cette pool sont données en PEFI.
 
-A reinvestor presses the button when there is a pending balance of 100 PEFI.
+Un réinvestisseur appuie sur le bouton lorsqu'il y a un solde en attente de 100 PEFI.
 
-* The reinvestor collects 3 PEFI \(given a 3% reward\)
-* The treasury collects 5 PEFI \(given a 5% fee\)
-* The remaining PEFI are reinvested
+* Le réinvestisseur collecte 3 PEFI \(récompense de 3%\).
+* Le trésorier collecte 5 PEFI \(récompense de 5%\)
+* Les PEFI restants sont réinvestis
 
-The remaining PEFI are sold for ETH and AVAX, added to Pangolin LP tokens and then deposited back in the pool.
+Les PEFI restants sont vendus contre des ETH et des AVAX, ajoutés aux jetons de Pangolin LP, puis redéposés dans le pool.
 
-## More information
+## Plus d'informations
 
-### Protection Mechanism
+### Mécanisme de protection
 
-The reinvest function contains a protection mechanism in order to limit how quickly two reinvests may happen in a row. By design, the second transaction \(which receives almost no reward\) should fail at a very low gas cost \(~0.03 AVAX\) instead of being executed with the full gas usage.
+La fonction de réinvestissement contient un mécanisme de protection afin de limiter la vitesse à laquelle deux réinvestissements peuvent se produire à la suite. Par conception, la deuxième transaction \(qui ne reçoit presque aucune récompense\) doit échouer à un coût en gaz très faible \(~0,03 AVAX\) au lieu d'être exécutée avec la pleine utilisation du gaz.
 
-If you receive almost no reward because someone else was slightly faster and your transaction was successful, please suggest a change to this configuration to our team.
+Si vous ne recevez presque aucune récompense parce que quelqu'un d'autre a été légèrement plus rapide et que votre transaction a réussi, veuillez suggérer à notre équipe une modification de cette configuration.
 
-### Transaction Failure
+### Échec de la transaction
 
-If you encounter a transaction failure after pressing the reinvest button, this is normally for one of two reasons:
+Si vous rencontrez un échec de transaction après avoir appuyé sur le bouton de réinvestissement, cela est normalement dû à l'une des deux raisons suivantes :
 
-1. Somehow you managed to submit a transaction when the token reward was below the minimum threshold. The fee \(gas\) is relatively low, however. \(~0.03 AVAX\).
-2. Somehow the default gas limit for reinvest is not sufficient for the transaction. You may need to manually increase the gas limit. Failure due to this may end up costing you the entire default gas limit.
+1. D'une manière ou d'une autre, vous avez réussi à soumettre une transaction alors que la récompense en jetons était inférieure au seuil minimum. Les frais \(gaz\) sont cependant relativement faibles. \(~0.03 AVAX\).
+2. D'une manière ou d'une autre, la limite de gaz par défaut pour le réinvestissement n'est pas suffisante pour la transaction. Vous devrez peut-être augmenter manuellement la limite de gaz. Si vous échouez, vous risquez de devoir payer la totalité de la limite de gaz par défaut.
 
-### Fees
+### Frais
 
-Fees are collected each time a farm is compounded, from the reward tokens.
+Des frais sont perçus à chaque fois qu'une ferme est composée, à partir des tokens de récompense.
 
-Fees are usually between 5-10% of the reward tokens. Fees are variable and change with network conditions to optimize rewards. There are three categories of fees:
+Les frais sont généralement compris entre 5 et 10 % des tokens de récompense. Les frais sont variables et changent en fonction des conditions du réseau pour optimiser les récompenses. Il existe trois catégories de frais :
 
-1. **Reinvest Reward** - paid to reinvestor who presses the button
-2. **Admin fee** - paid to network
-3. **Developer fee** - paid to developer who wrote the strategy
+1. **Récompense de réinvestissement** - payée au réinvestisseur qui appuie sur le bouton.
+2. **Frais d'administration** - payés au réseau
+3. **Frais de développement** - payés au développeur qui a écrit la stratégie.
 
-Yield Yak enforces no deposit or withdraw fees \(although the underlying farms may\).
+Yak Yield n'applique aucun frais de dépôt ou de retrait \(bien que les exploitations sous-jacentes puissent le faire\).
 
   
 

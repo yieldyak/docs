@@ -1,51 +1,53 @@
 ---
-description: Yield Yak displays returns from actual and recent performance
+description: >-
+  Yield Yak affiche les rendements basés sur les performances réelles et
+  récentes
 ---
 
-# Returns and Tracking
+# Rendement et suivi
 
-## Returns Based on Actual and Recent Performance
+## Rendements basés sur les performances réelles et récentes
 
-Yield Yak calculates returns using actual and recent performance.
+Yield Yak calcule les rendements à partir des performances réelles et récentes.
 
-* Simple APY is based on recent performance, which is annualized without compounding.
-* Compound APY considers that your farming assets grow and compound and displays the simple daily ROI compounded over a year.
+* Le rendement annuel simple est basé sur les performances récentes, qui sont annualisées sans être composées.
+* Le rendement annuel composé tient compte du fait que vos actifs augmentent, sont composés et affiche le rendement quotidien simple composé sur un an.
 
-Returns are variable and depend on many factors.
+Les rendements sont variables et dépendent de nombreux facteurs.
 
 {% hint style="info" %}
-**Comparing Returns**
+**Comparaison des rendements**
 
-If you are comparing returns to other sites, consider that different sites use different methodologies. Some estimate returns with inaccurate and static assumptions about blocks per day, reward asset price, etc.
+Si vous comparez les rendements à ceux d'autres sites, tenez compte du fait que les différents sites utilisent des méthodes différentes. Certains estiment les rendements à partir d'hypothèses imprécises et statiques concernant les blocs par jour, le prix de l'actif de récompense, etc.
 {% endhint %}
 
-## Returns Based on Deposit Asset Growth
+## Rendements basés sur la croissance des actifs de dépôt
 
-Yield Yak farms are designed to grow the deposit asset. All returns are provided in terms of the deposit asset \(LP tokens, usually\).
+Les fermes Yield Yak sont conçues pour faire croître l'actif de dépôt. Tous les rendements sont fournis en termes d'actif de dépôt \(généralement des jetons LP\)..
 
-Due to impermanent loss and price volatility, deposit assets could grow while the USD value of underlying assets change. Learn more:
+En raison de l'impermanent loss et de la volatilité des prix, les actifs de dépôt pourraient croître alors que la valeur en USD des actifs sous-jacents change. En savoir plus :
 
 {% page-ref page="risks/" %}
 
-## Tracking Returns
+## Suivi des retours
 
-The best way to track deposits and growth is to compare your deposited tokens with your current staked balance.
+La meilleure façon de suivre les dépôts et la croissance est de comparer vos jetons déposés avec votre solde actuel.
 
 {% hint style="success" %}
-**Third-party Tracking Services**
+**Services de suivi tiers**
 
-Services like [markr.io](https://markr.io/) provide additional tracking services for Yield Yak positions.
+Des tiers comme [Markr.io](https://markr.io/offrent) offrent des services de suivi supplémentaires pour les positions de Yield Yak.
 {% endhint %}
 
-### How can I see the underlying value of my LP tokens?
+### Comment puis-je voir la valeur de mes jetons LP ?
 
-Hover \(or tap\) the figure under &lt;My TVL&gt; to see the estimated underlying tokens.
+Survolez \(ou cliquez\) le chiffre sous &lt;my TVL&gt;  pour voir l'estimation des jetons sous-jacents.
 
-## Timelock Protects Users
+## Le Timelock protège les utilisateurs
 
-Yield Yak farms are protected by a timelock. Timelocks delay the team from making changes or withdrawing funds on behalf of users.
+Les fermes de Yield Yak sont protégées par un Timelock. Les Timelocks permettent d'établir un délais  pour faire des changements ou de retirer des fonds au nom des utilisateurs.
 
-The timelock address is: `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
+L'adresse du Timelock est la suivante : `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
 
   
 

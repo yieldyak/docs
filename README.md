@@ -1,57 +1,59 @@
 ---
-description: Earn more yield. Tools for defi users on Avalanche.
+description: >-
+  Augmenter votre rendement. Outils pour les utilisateurs de la DeFi sur
+  Avalanche.
 ---
 
-# Welcome
+# Bienvenue
 
-## What is Yield Yak?
+### **Qu'est-ce que Yield Yak ?** 
 
-### Autocompounder
+### Un composeur d'intérêts automatique
 
-Yield Yak is an easy-to-use tool to earn more yield from defi farming on the Avalanche network.
+Yield Yak est un outil facile à utiliser pour obtenir plus de rendement avec votre farming DeFi sur le réseau Avalanche.
 
-### Community-driven
+### Dirigé par la communauté
 
-Yield Yak is a community-driven project. Our community has built and maintained the best, cheapest and most diverse autocompounder on the market.
+Yield Yak est un projet dirigé par la communauté. Notre communauté a construit et maintenu le meilleur, le moins cher et le plus diversifié des composeur automatique du marché.
 
-### Self-sustaining
+### Autonome
 
-Yield Yak is largely self-sustaining. Our community compounds rewards, suggests new strategies, proposes key configuration updates and contributes to development. Yield Yak farms can run forever, without the team's involvement.
+Yield Yak est largement autosuffisant. Notre communauté compose des récompenses, suggère de nouvelles stratégies, propose des mises à jour de configurations clés et contribue au développement. Les fermes Yield Yak peuvent fonctionner éternellement, sans l'intervention de l'équipe.
 
-## How does Yield Yak work?
+## Comment fonctionne Yield Yak ?
 
-Yield Yak auto-compounds yield farm rewards.
+Yield Yak compose automatiquement les récompenses des pools de farming.
 
-* Each farm is a pool of deposits from Yield Yak users
-* Farms earn reward tokens \(like $PNG\)
-* Farms reinvest all rewards, compounding everyone's deposits
+* Chaque ferme est une réserve de liquidité déposées par les utilisateurs de Yield Yak.
+* Les fermes gagnent des tokens de récompense \(comme $PNG\).
+* Les fermes réinvestissent toutes les récompenses, ce qui compose les dépôts de chacun.
 
-All depositors benefit from the very high frequency of Yield Yak compounding. Learn more:
+Tous les déposants bénéficient de la très haute fréquence de composition de Yield Yak. Pour en savoir plus :
 
 {% page-ref page="for-farmers/pool.md" %}
 
-## How do I get started?
+## Comment puis-je commencer ?
 
-Before you start using Yield Yak, you will need:
+Avant de commencer à utiliser Yield Yak, vous aurez besoin :
 
 1. MetaMask
-2. AVAX on the Avalanche C-Chain subnet in your MetaMask account
+2. AVAX sur le sous-réseau Avalanche C-Chain dans votre compte MetaMask
 
-For help getting started, please see this guide from Ava Labs:
+Pour vous aider à démarrer, veuillez consulter ce guide d'Ava Labs :
 
 {% embed url="https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche" caption="" %}
 
-## Can I lose money?
+## Puis-je perdre de l'argent ?
 
-Yes. Use Yield Yak at your own risk with money you can afford to use. Do you own research.
+Oui. Utilisez Yield Yak à vos risques et périls avec l'argent que vous pouvez vous permettre de perdre. Faites vos propres recherches.
 
-Yield Yak smart contracts are unaudited. Yield Yak relies on smart contracts from other platforms which may also be unaudited. Any funds lost by other platforms will affect Yield Yak users.
+Les contrats intelligents de Yield Yak ne sont pas vérifiés. Yield Yak s'appuie sur des contrats intelligents d'autres plateformes qui peuvent également ne pas être audités. Toute perte de fonds par d'autres plateformes affectera les utilisateurs de Yield Yak.
 
 {% page-ref page="for-farmers/risks/" %}
 
 ## Support
 
-If you are not sure about something, ask our community.
+Si vous n'êtes pas sûr de quelque chose, demandez à notre communauté.
 
 * [Telegram](https://t.me/yieldyak)
 * [Twitter](https://twitter.com/yieldyak_)

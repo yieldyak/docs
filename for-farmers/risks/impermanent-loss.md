@@ -1,25 +1,25 @@
 # Impermanent Loss
 
-When a farmer provides liquidity on an AMM, the two assets are deposited at a 50:50 ratio of their value to each other \(at the time of depositing\). The AMM protocols are controlled by complex mathematical formulas that adjusts the ratios of the underlying assets in the pool whilst also determining their prices. As the value of AVAX and ETH fluctuates the AMM will adjust the LP farmers ratio to ensure they remain at a 50:50 value. This means that a farmer can lose out on gains from a deposited asset that outperforms. 
+Lorsqu'un agriculteur fournit des liquidités sur un AMM, les deux actifs sont déposés à un ratio de 50:50 de leur valeur l'un par rapport à l'autre \(au moment du dépôt\). Les protocoles des AMM sont contrôlés par des formules mathématiques complexes qui ajustent les ratios des actifs sous-jacents dans le pool tout en déterminant également leurs prix. Comme la valeur de l'AVAX et de l'ETH fluctue, l'AMM ajustera le ratio des fermiers LP pour s'assurer qu'ils restent à une valeur de 50:50. Cela signifie qu'un fermier peut perdre les gains d'un actif déposé qui surperforme.
 
-So, for the purposes of this example let’s assume 1 ETH = 100 AVAX & 100 AVAX = 1 ETH. The farmer provides liquidity on an AMM and deposits 100 AVAX and 1 ETH and receives the ‘receipt’ \(LP\) token which can then be deposited on Yield Yak to auto-compound. In the event that the price of AVAX starts to increase as more and more people are purchasing AVAX. In this event, the pool adjusts the ratio to ensure the value remains split 50:50 across AVAX and ETH. 
+Ainsi, pour les besoins de cet exemple, supposons que 1 ETH = 100 AVAX et 100 AVAX = 1 ETH. l'utilisateur fournit des liquidités sur un AMM et dépose 100 AVAX et 1 ETH et reçoit le jeton de "réception" \(LP\) qui peut ensuite être déposé sur Yield Yak pour s'auto-composer. Dans le cas où le prix de l'AVAX commence à augmenter car de plus en plus de personnes achètent de l'AVAX. Dans ce cas, la pool ajuste le ratio pour s'assurer que la valeur reste répartie à 50:50 entre AVAX et ETH.
 
-Now 1 ETH is suddenly only worth 50 AVAX because of the price jump in AVAX. But because the protocol automatically adjusted the amount of tokens in the pool, the farmer lost out on the AVAX rally. 
+Maintenant, 1 ETH ne vaut soudainement plus que 50 AVAX à cause de la hausse du prix des AVAX. Mais comme le protocole a automatiquement ajusté la quantité de jetons dans le pool, l'utilisateur a perdu sur la hausse de l'AVAX.
 
-This is impermanent loss. If the price of ETH and AVAX fluctuate in line with each other then no IL is realised. But if one of the two assets price increases substantially then the farmer loses out.
+C'est une perte impermanente. Si les prix de l'ETH et de l'AVAX fluctuent en ligne l'un avec l'autre, alors aucune IL n'est réalisée. Mais si le prix de l'un des deux actifs augmente considérablement, l'utilisateur est perdant.
 
-In the example above the farmer would have been better off simply hodling their AVAX/ETH if they removed their liquidity from the AMM pool. 
+Dans l'exemple ci-dessus, l'utilisateur aurait mieux fait de simplement hodler ses AVAX/ETH s'il avait retiré ses liquidités du pool de l'AMM.
 
-However, if the farmer stays in the pool and the value of AVAX goes back down to its original value then the value of the farmer's overall holdings will go back to the original value also and they would have 100 AVAX & 1 ETH \(or even more if they deposited their LP tokens on Yield Yak!\).  
+Cependant, si l'utilisateur reste dans la pool et que la valeur de l'AVAX revient à sa valeur initiale, la valeur de l'ensemble de ses avoirs reviendra également à sa valeur initiale et il aura 100 AVAX et 1 ETH \(ou même plus s'il a déposé ses jetons LP sur Yield Yak !\)  
 
 
 ![](../../.gitbook/assets/il-graph.png)
 
-Remember, Impermanent Losses only become permanent once you remove your liquidity. 
+N'oubliez pas que les pertes impermanentes ne deviennent permanentes que lorsque vous retirez vos liquidités.
 
-## How to protect yourself against IL?
+## Comment se protéger contre l’IL ?
 
-One way in which you can reduce your exposure to IL is to provide liquidity for pairs where the relative price of each asset remains fairly constant. For example, a stablecoin pair like DAI-USDT would give you very little exposure to IL.
+Une façon de réduire votre exposition à l'IL est de fournir des liquidités pour des paires où le prix relatif de chaque actif reste relativement constant. Par exemple, une paire de monnaies stables comme DAI-USDT vous exposerait très peu à l'IL.
 
-The downside of these pools however, is, you gain no benefit from price increase, the number of these pools are fewer and the returns may not be as attractive as other pools.
+Cependant, l'inconvénient de ces pools est que vous ne bénéficiez pas de l'augmentation des prix, que le nombre de ces pools est réduit et que les rendements peuvent ne pas être aussi intéressants que ceux d'autres pools.
 

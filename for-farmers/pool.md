@@ -1,27 +1,27 @@
 ---
-description: 'Earn More Yield, Save Time, and Reduce Variance'
+description: 'Obtenez plus de rendement, gagnez du temps et réduisez les écarts.'
 ---
 
-# Why use Yield Yak?
+# Pourquoi utiliser Yield Yak ?
 
-## Save Time and Earn More Yield
+## Gagnez du temps et obtenez un meilleur rendement
 
-Many defi protocols pay rewards to users in the form of tokens \(farming rewards\). Farmers who claim rewards often and compound their deposits maximize their rewards and farming yield. However, most farmers do not reach an optimal level of returns for two reasons:
+De nombreux protocoles defi versent des récompenses aux utilisateurs sous forme de jetons \(récompenses de farming\). Les farmers qui réclament souvent des récompenses et composent leurs dépôts maximisent leurs récompenses et leur rendement. Cependant, la plupart des farmers n'atteignent pas un niveau optimal de rendement pour deux raisons :
 
-* **Prohibitive gas costs** to claim and compound farming rewards
-* **High time commitment** to frequently compound
+* **Les coûts important du gaz** pour réclamer et composer les récompenses.
+* **Le temps nécessaire** pour composer les récompenses est élevé.
 
-Yield Yak helps all farmers earn more yield by pooling assets and socializing the costs of compounding. This means much more frequent compounding, which happens automatically.
+Yield Yak aide tous les farmers à obtenir un meilleur rendement en mettant en commun les actifs et en socialisant les coûts de capitalisation. Cela signifie que la composition est beaucoup plus fréquente et se fait automatiquement.
 
-## Reduce Variance on Reward Asset Prices
+## Réduire la variance des prix des actifs récompensés
 
-Popular Yield Yak farms compound every few minutes or hours. Reward tokens are converted into deposit tokens on behalf of all users in the pool many times per day, providing users with a blended price exposure to reward assets.
+Les fermes populaires de Yield Yak composent toutes les quelques minutes ou heures. Les jetons de récompense sont convertis en jetons de dépôt au nom de tous les utilisateurs de la pool plusieurs fois par jour, ce qui permet aux utilisateurs de bénéficier d'une exposition au prix mixte des actifs de récompense.
 
-Consider an example: A farmer stakes $50 of LP tokens into a farm. The farmer receives rewards worth 0.05 AVAX per day. That means, on average, the farmer only generates enough value from claimed rewards to pay the gas costs by waiting for days or weeks.
+Prenons un exemple : Un farmer investit 50 $ de jetons LP dans une pool. Il reçoit des récompenses d'une valeur de 0,05 AVAX par jour. Cela signifie qu'en moyenne, le farmer ne génère que suffisamment de valeur à partir des récompenses réclamées pour payer les frais de gaz en attendant pendant des jours ou des semaines.
 
-During this period where the farmer is waiting for the rewards to be worth claiming and compounding, they are at risk of the reward asset price shifting.
+Pendant cette période où le farmer attend que les récompenses valent la peine d'être réclamées et composées, il court le risque que le prix de l'actif de récompense change.
 
-Farmers who use Yield Yak instead, will earn the average price for rewards over the period while enjoying compounding effects on their deposits.
+Les agriculteurs qui utilisent plutôt Yield Yak gagneront le prix moyen des récompenses sur la période tout en profitant des effets de capitalisation sur leurs dépôts.
 
 
 

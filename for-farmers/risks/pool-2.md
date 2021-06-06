@@ -1,25 +1,25 @@
 # Pool 2
 
-## New Pool 2 farms are especially risky
+## Les nouvelles exploitations de Pool 2 sont particulièrement risquées
 
-### What are Pool 2 farms?
+### Qu'est-ce que le farming des pools 2 ?
 
-Pool 2 farms reward an asset that is included in the pool. For example,
+Les fermes de pool 2 récompensent un actif qui est inclus dans la pool. Par exemple,
 
-* AVAX-PNG rewards PNG
-* AVAX-PEFI rewards PEFI
+* AVAX-PNG récompense PNG
+* AVAX-PEFI récompense PEFI
 
-In contrast, Pool 1 farms do not contain the reward asset. For example, AVAX-LINK rewards PEFI.
+En revanche, les fermes du pool 1 ne contiennent pas l'actif de récompense. Par exemple, AVAX-LINK récompense PEFI.
 
-### High Token Emission Rates Increase Risk/Reward
+### Les taux élevés d'émission de jetons augmentent le risque/récompense
 
-Pool 2 farms are designed to generate liquidity for the reward token, which usually compensate early farmers with very high returns by using a very high emission rate.
+Les fermes du pool 2 sont conçues pour générer de la liquidité pour le jeton de récompense, qui compense généralement les farmers arrivant en avance avec des rendements très élevés en utilisant un taux d'émission très élevé.
 
-Early in these systems, there are two competing forces generating volatility. On one hand, there is buying pressure from farmers who want attractive returns. On the other hand, early farmers place selling pressure on the reward token. More volatility may lead to loss due to the underlying assets losing value.
+Au début de ces systèmes, il y a deux forces concurrentes qui génèrent de la volatilité. D'une part, il y a une pression d'achat de la part des farmers qui veulent des retours attractifs. D'autre part, les farmers précoces exercent une pression à la vente sur le jeton de récompense. Une plus grande volatilité peut entraîner des pertes en raison de la perte de valeur des actifs sous-jacents.
 
-This increased risk explains the very high returns often associated with Pool 2 farms.
+Ce risque accru explique les rendements très élevés souvent associés aux exploitations du Pool 2.
 
-## Are Pool 2 farms always high risk? Should I avoid them?
+## Les exploitations du Pool 2 sont-elles toujours à haut risque ? Devrais-je les éviter ?
 
-Not necessarily. Established Pool 2 farms may have a risk profile more similar to Pool 1 farms. This shift depends most on the token emission rate and volatility.
+Pas nécessairement. Les fermes établies du Pool 2 peuvent avoir un profil de risque plus proche de celui des fermes du Pool 1. Ce changement dépend surtout du taux d'émission de jetons et de la volatilité.
 
