@@ -58,5 +58,3 @@ Si vous n'êtes pas sûr de quelque chose, demandez à notre communauté.
 * [Telegram](https://t.me/yieldyak)
 * [Twitter](https://twitter.com/yieldyak_)
 
-.
-
