@@ -1,10 +1,10 @@
 ---
-description: Earn more yield. Tools for defi users on Avalanche.
+description: Obtenga más rendimiento. Equipo para usuarios de defi en Avalanche.
 ---
 
-# Welcome
+# Bienvenidos
 
-## What is Yield Yak?
+## Que es Yield Yak?
 
 ### Autocompounder
 
