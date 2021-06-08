@@ -1,21 +1,21 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Hoşgeldiniz](README.md)
 
-## For Yield Farmers <a id="for-farmers"></a>
+## Havuz Sağlayıcılarına <a id="havuz-saglayici"></a>
 
-* [Why use Yield Yak?](for-farmers/pool.md)
-* [Returns and Tracking](for-farmers/returns.md)
-* [The Reinvest Button](for-farmers/reinvest.md)
-* [Farming Risks](for-farmers/risks/README.md)
-  * [Pool 2](for-farmers/risks/pool-2.md)
-  * [Impermanent Loss](for-farmers/risks/impermanent-loss.md)
-  * [Underlying Assets](for-farmers/risks/underlying.md)
-* [Yield Yak Farms](https://yieldyak.com/farms)
+* [Neden Yield Yak Kullanmalısın?](havuz-saglayici/pool.md)
+* [Getiriler ve Takip](havuz-saglayici/returns.md)
+* [Reinvest Düğmesi](havuz-saglayici/reinvest.md)
+* [Likidite Sağlama Riskleri](havuz-saglayici/risks/README.md)
+  * [Havuz 2](havuz-saglayici/risks/pool-2.md)
+  * [Geçici Kayıp](havuz-saglayici/risks/impermanent-loss.md)
+  * [Temel Varlıklar](havuz-saglayici/risks/underlying.md)
+* [Yield Yak Havuzları](https://yieldyak.com/farms)
 
-## For Dex Traders <a id="for-traders"></a>
+## DEX Yatırımcılarına <a id="dex-yatirimci"></a>
 
-* [Yield Yak Compare](https://yieldyak.com/compare)
+* [Yield Yak Karşılaştır](https://yieldyak.com/compare)
 
 ## $Yak Token <a id="token"></a>
 
@@ -23,6 +23,7 @@
 
 ## More Info
 
+* [Çevirmenin Notları](more-info/cevirmenin-notlari.md)
 * [Website](https://yieldyak.com/)
 * [Twitter](https://twitter.com/yieldyak_)
 * [Telegram](https://t.me/yieldyak)

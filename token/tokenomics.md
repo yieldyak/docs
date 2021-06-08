@@ -1,28 +1,28 @@
 # Tokenomics
 
 {% hint style="warning" %}
-**Token not available**
+**Token henüz yok**
 
-The $YAK token has not been deployed. Do not get scammed.
+$YAK tokenı daha üretilmedi. Dolandırıcılara karşı dikkatli olun.
 {% endhint %}
 
-## Total Supply
+## Toplam Arz
 
-10,000 $YAK \(est. wild yaks roaming on Earth\)
+10,000 $YAK \(toplamda olacak YAK sayısı\)
 
-## Distribution
+## Dağılım
 
-Early users took considerable risk using a new platform. Their feedback formed the product. Therefore the initial distribution of $YAK tokens is heavily weighted toward early users:
+İlk kullanıcılar yeni bir platformu kullanarak ciddi bir risk aldılar. Ve onların geridönüşleri ürünün oluşmasını sağladı. Bu sebeple $YAK tokenları, ağırlıklı olarak ilk kullanıcılara odaklı bir şekilde dağıtılacaktır:
 
-* 50% Depositors \(snapshot pending\)
-* 15% Reinvest pushers \(snapshot taken\)
-* 15% Team
-* 15% Partners
-* 5% Community \(snapshot taken\)
+* 50% Yatırımcılar \(snapshot çekilmedi\)
+* 15% Reinvest yapanlar \(snapshot çekildi\)
+* 15% Ekip
+* 15% Ortaklar
+* 5% Topluluk \(snapshot çekildi\)
 
-## Utility
+## $YAK'ın İşlevleri
 
-* **On-chain Governance.** Staked $YAK will control the network, including parameters for fees and other important configurations.
-* **Native Revenue.** Staked $YAK will receive $AVAX. Network revenue \(collected in tokens, usually\) will be converted to AVAX and distributed to stakers.
-* **Sustainable Incentives.** Any incentive models that distribute $YAK will be accomplished by using network revenue instead of inflating supply.
+* **Zincir Yönetimi.** Kitlenmiş $YAK lar ağı yönetecek, bu komisyon ve diğer tüm önemli düzenlemelerin tamamını içerecektir.
+* **Native Revenue.** Kitlenmiş $YAK'lar $AVAX getirisi elde edecek. Ağ getirisi\(token olarak toplanır\) $AVAX'a çevrilerek $YAK kitleyenlere dağıtılacaktır.
+* **Sürdürülebilir Teşvikler.** Tüm teşvik modelleri, ağın getirilerinden dağıtılarak şişen bir arzın oluşmasını engeller.
 
