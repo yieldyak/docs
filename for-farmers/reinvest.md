@@ -1,65 +1,65 @@
-# The Reinvest Button
+# 再投資按鈕
 
-## Do I need to press the reinvest button?
+## 我需要按下再投資按鈕嗎？
 
-No. Someone else will press it for you to earn the reward.
+不需要。有人會為了賺取獎勵為你按下。
 
-## How does it work?
+## 它怎樣運作的？
 
-The reinvest button takes all pending rewards from a pool, converts them into the farm asset, and reinvests them back into the pool to compound deposits for everyone in the farm.
+再投資按鈕將提取礦池中所有待提獎勵，兌換為礦池的質押資產，並重新質押至礦池中為所有挖礦者複利計算存款獎勵。
 
-There is a variable reward to incentivize users to press that button. Whoever is first to press the button, earns the reward and compounds everyone's deposits.
+礦池會提供一個變動的獎勵作為按下再投資按鈕的誘因。第一個按下按鈕的人會賺取獎勵並為所有人的存款提供複利計算。
 
-## When should I press it?
+## 甚麼時候應該按下按鈕？
 
-The reinvest button is optional. You do not need to press it. However, you might be motivated to press it to earn the reward.
+你並不是必須要按下再投資按鈕。但是，你可能會被獎勵吸引而按下按鈕。
 
-If your goal is to net gain in AVAX, then you need to consider the reward token / AVAX price ratio, transaction cost for reinvesting for that particular pool, the transaction cost for swapping the reward token into AVAX, etc.
+如果你希望賺取AVAX，你需要考慮獎勵代幣兌換AVAX的價格、再投資該礦池的交易費用、兌換獎勵代幣為AVAX的交易費用等。
 
-You do not need to participate in the pool to be able to receive the reinvest reward. Anyone pressing the button and completing the transaction will receive the reward. With that in mind, it can be competitive, so be sure to be quick.
+你並不需要質押於該礦池以賺取再投資獎勵。任何人在按下再投資按鈕並完成交易後皆能賺取獎勵。但請緊記，再投資的競爭十分大，愈快成功率愈高。
 
-## Example of the Reinvest Process
+## 再投資過程的例子
 
-So for example, let's say you're in the below pool \(Pangolin ETH-AVAX / PEFI\). 
+ 假設你已質押於以下礦池（Pangolin ETH-AVAX / PEFI）。
 
 ![](../.gitbook/assets/screen-shot-2021-05-14-at-9.06.18-pm.png)
 
-By participating in this pool, you have provided liquidity on Pangolin in the form of ETH and AVAX and you have deposited those LP tokens in the Yield Yak farm. Those LP tokens are then being deposited on Penguin Finance and the rewards for this pool are given in PEFI.
+參與這礦池前，你必須先於Pangolin提供ETH和AVAX的流動性並把LP代幣質押於Yield Yak礦池。這些LP代幣會被質押於Penguin Finance以獲取PEFI獎勵。
 
-A reinvestor presses the button when there is a pending balance of 100 PEFI.
+一名複利推手於100枚待取PEFI獎勵時按下了按鈕。
 
-* The reinvestor collects 3 PEFI \(given a 3% reward\)
-* The treasury collects 5 PEFI \(given a 5% fee\)
-* The remaining PEFI are reinvested
+* 複利推手會獲得3 PEFI（該池派發3%獎勵）
+* 平台庫存會獲得5 PEFI（該池收取5%費用）
+* 其餘PEFI會被再投資
 
-The remaining PEFI are sold for ETH and AVAX, added to Pangolin LP tokens and then deposited back in the pool.
+其餘的PEFI會兌換成ETH和AVAX，加到Pangolin LP代幣並存入池內。
 
-## More information
+## 更多資訊
 
-### Protection Mechanism
+### 保護機制
 
-The reinvest function contains a protection mechanism in order to limit how quickly two reinvests may happen in a row. By design, the second transaction \(which receives almost no reward\) should fail at a very low gas cost \(~0.03 AVAX\) instead of being executed with the full gas usage.
+再投資功能存在一個保護機制避免兩個再投資幾乎同時發生。根據保護機制的設計，第二個再投資交易（將會收到極低的獎勵）不會以完整交易費用執行，而是會以極低的交易費用（約0.03AVAX）下執行失敗。
 
-If you receive almost no reward because someone else was slightly faster and your transaction was successful, please suggest a change to this configuration to our team.
+如果你因為別人比你快執行再投資而成功執行再投資交易後賺取了極低的獎賞，請提出對該礦池的保護機制建議予團隊參考。
 
-### Transaction Failure
+### 交易失敗
 
-If you encounter a transaction failure after pressing the reinvest button, this is normally for one of two reasons:
+如果你於按下再投資按鈕後交易失敗，這通常是因為以下兩個原因其中之一：
 
-1. Somehow you managed to submit a transaction when the token reward was below the minimum threshold. The fee \(gas\) is relatively low, however. \(~0.03 AVAX\).
-2. Somehow the default gas limit for reinvest is not sufficient for the transaction. You may need to manually increase the gas limit. Failure due to this may end up costing you the entire default gas limit.
+1. 當代幣獎勵低於最低限度時，你因某些原因成功提交了交易。但是，交易費會相對較低（約0.03AVAX）。
+2. 因某些原因系統默認的交易費用上限不足以讓整個交易執行。你可能需要手動調過交易費用上限。因此原因而失敗將令你失去整個默認交易費用上限。
 
-### Fees
+### 費用
 
-Fees are collected each time a farm is compounded, from the reward tokens.
+礦池於每次複利計算時都會從獎勵代幣中收取費用。
 
-Fees are usually between 5-10% of the reward tokens. Fees are variable and change with network conditions to optimize rewards. There are three categories of fees:
+費用通常為獎勵代幣數的5-10%。費用並非固定，而是會根據平台的情況去最佳化用家收益。費用分為三類：
 
-1. **Reinvest Reward** - paid to reinvestor who presses the button
-2. **Admin fee** - paid to network
-3. **Developer fee** - paid to developer who wrote the strategy
+1. **再投資獎勵** - 支付予按下按鈕的複利推手
+2. **管理費** - 支付予平台
+3. **開發者費用** - 支付予該挖礦策略的開發者
 
-Yield Yak enforces no deposit or withdraw fees \(although the underlying farms may\).
+Yield Yak不會收取存款或提取費用（但某些平台的礦池可能會由該平台收取）。
 
   
 
