@@ -15,7 +15,7 @@
 
 ## DEX Yatırımcılarına <a id="dex-yatirimci"></a>
 
-* [Yield Yak Karşılaştır](https://yieldyak.com/compare)
+* [Yield Yak Karşılaştır\(Alfa\)](https://yieldyak.com/swap)
 
 ## $Yak Token <a id="token"></a>
 
