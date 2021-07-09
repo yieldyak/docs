@@ -15,7 +15,7 @@
 
 ## For Dex Traders <a id="for-traders"></a>
 
-* [Yield Yak Compare](https://yieldyak.com/swap)
+* [Yield Yak Swap \(Alpha\)](https://yieldyak.com/swap)
 
 ## $Yak Token <a id="token"></a>
 
