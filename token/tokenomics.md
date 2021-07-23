@@ -1,28 +1,28 @@
-# Tokenomics
+# 代币经济（Tokenomics）
 
 {% hint style="warning" %}
-**Token not available**
+**代币还未准备就绪**
 
-The $YAK token has not been deployed. Do not get scammed.
+$YAK 代币还未正式发行，请勿堕入骗局。
 {% endhint %}
 
-## Total Supply
+## 总供应量
 
-10,000 $YAK \(est. wild yaks roaming on Earth\)
+10,000枚 $YAK（约为地球上野生犛牛的数目）
 
-## Distribution
+## 分配
 
-Early users took considerable risk using a new platform. Their feedback formed the product. Therefore the initial distribution of $YAK tokens is heavily weighted toward early users:
+早期用家冒着相当的风险测试全新的平台。他们的意见成就了Yield Yak，因此我们计划将大部分的$YAK初期分配给予早期用家：
 
-* 50% Depositors \(snapshot pending\)
-* 15% Reinvest pushers \(snapshot taken\)
-* 15% Team
-* 15% Partners
-* 5% Community \(snapshot taken\)
+* 50% 存款者（未完成快照）
+* 15% 复利推手（快照已完成）
+* 15% 团队
+* 15% 合作伙伴
+* 5%   社群 （快照已完成）
 
-## Utility
+## 用途
 
-* **On-chain Governance.** Staked $YAK will control the network, including parameters for fees and other important configurations.
-* **Native Revenue.** Staked $YAK will receive $AVAX. Network revenue \(collected in tokens, usually\) will be converted to AVAX and distributed to stakers.
-* **Sustainable Incentives.** Any incentive models that distribute $YAK will be accomplished by using network revenue instead of inflating supply.
+* **进行链上管治。**用家可以质押$YAK管理平台，包括平台费用等参数以及其他主要功能。
+* **获取平台收益**。质押$YAK可以赚取$AVAX。Yield Yak会兑换平台的收益（通常是其他代币）至$AVAX以分配予质押者。
+* **提供可持续的奖励**。Yield Yak只会使用平台的收益发放$YAK奖励以防止供应通胀。
 

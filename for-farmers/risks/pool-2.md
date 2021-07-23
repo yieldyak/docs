@@ -1,25 +1,25 @@
-# Pool 2
+# 第二矿池（Pool 2）
 
-## New Pool 2 farms are especially risky
+## 新的第二矿池风险十分高
 
-### What are Pool 2 farms?
+### 什么是第二矿池？
 
-Pool 2 farms reward an asset that is included in the pool. For example,
+第二矿池发放的奖励为池中的其一资产。例如：
 
-* AVAX-PNG rewards PNG
-* AVAX-PEFI rewards PEFI
+* AVAX-PNG发放PNG奖励
+* AVAX-PEFI发放PEFI奖励
 
-In contrast, Pool 1 farms do not contain the reward asset. For example, AVAX-LINK rewards PEFI.
+相对地，第一矿池（Pool 1）的资产并不包括奖励资产，例如AVAX-LINK发放PEFI奖励。
 
-### High Token Emission Rates Increase Risk/Reward
+### 高代币发放率的同时面对更高风险
 
-Pool 2 farms are designed to generate liquidity for the reward token, which usually compensate early farmers with very high returns by using a very high emission rate.
+第二矿池用作为奖励代币提供流动性。它们通常会以很高的代币发放率和回报率来补偿早期挖矿者。
 
-Early in these systems, there are two competing forces generating volatility. On one hand, there is buying pressure from farmers who want attractive returns. On the other hand, early farmers place selling pressure on the reward token. More volatility may lead to loss due to the underlying assets losing value.
+这些系统早期会有两道力角力产生波动。一方面，因高回报率而吸引了挖矿者购入代币。另一方面，早期的挖矿者会卖出奖励代币。价格波幅高企可能会导致因相关资产（Underlying Asset）价值降低而致的损失。
 
-This increased risk explains the very high returns often associated with Pool 2 farms.
+第二矿池的高风险亦解释了它们的高回报率。
 
-## Are Pool 2 farms always high risk? Should I avoid them?
+## 第二矿池是否一定高风险？我应否避免它们？
 
-Not necessarily. Established Pool 2 farms may have a risk profile more similar to Pool 1 farms. This shift depends most on the token emission rate and volatility.
+不一定。已发展至一定水平的第二矿池的风险可能与第一矿池相约。已发展与否大多取决于代币发放率和波幅。
 

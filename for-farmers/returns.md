@@ -1,51 +1,51 @@
 ---
-description: Yield Yak displays returns from actual and recent performance
+description: Yield Yak显示近期的实际收益率
 ---
 
-# Returns and Tracking
+# 回报及收益追踪
 
-## Returns Based on Actual and Recent Performance
+## 根据最近实际情况的收益率
 
-Yield Yak calculates returns using actual and recent performance.
+Yield Yak根据最近的实际情况计算收益率。
 
-* Simple APY is based on recent performance, which is annualized without compounding.
-* Compound APY considers that your farming assets grow and compound and displays the simple daily ROI compounded over a year.
+* 年化单利率（Simple APY）是根据最近表现不考虑复利效能下的年化收益率。
+* 年化复利率（Compound APY）考虑质押资产在复利计算下增长，显示了单利率于每天一次复利计算下的年化收益率。
 
-Returns are variable and depend on many factors.
+收益率为变数并受大量因素影响。
 
 {% hint style="info" %}
-**Comparing Returns**
+比较收益率
 
-If you are comparing returns to other sites, consider that different sites use different methodologies. Some estimate returns with inaccurate and static assumptions about blocks per day, reward asset price, etc.
+比较不同平台之间的收益率时，请留意不同平台使用不同的计算方法。有些预计收益率使用了不准确和固定的假设，包括每天生成区块数、奖励代币的价格等。
 {% endhint %}
 
-## Returns Based on Deposit Asset Growth
+## 根据质押资产增长的收益率
 
-Yield Yak farms are designed to grow the deposit asset. All returns are provided in terms of the deposit asset \(LP tokens, usually\).
+Yield Yak矿池的设计是让质押资产数目增加。任何的回报都是以质押资产的形式增加（通常为LP代币）。
 
-Due to impermanent loss and price volatility, deposit assets could grow while the USD value of underlying assets change. Learn more:
+基于无常损失（impermanent loss）以及价格波动，质押资产的数目增加的同时资产换作美金的价值可能会下降。更多资讯：
 
 {% page-ref page="risks/" %}
 
-## Tracking Returns
+## 追踪收益
 
-The best way to track deposits and growth is to compare your deposited tokens with your current staked balance.
+追踪增长和存款的最佳方法就是比较最初质押资产数和现有押押资产数。
 
 {% hint style="success" %}
-**Third-party Tracking Services**
+**第三方追踪服务**
 
-Services like [markr.io](https://markr.io/) provide additional tracking services for Yield Yak positions.
+其他平台如 [markr.io](https://markr.io) 也提供追踪Yield Yak收益的服务。
 {% endhint %}
 
-### How can I see the underlying value of my LP tokens?
+### 如何能看到LP代币的相关资产（Underlying Asset）数？
 
-Hover \(or tap\) the figure under &lt;My TVL&gt; to see the estimated underlying tokens.
+将游标放于（或按下）&lt;我的总锁定价值&gt;下的数字以观看估计相关资产数。
 
-## Timelock Protects Users
+## 时间锁定（Timelock）保护用家
 
-Yield Yak farms are protected by a timelock. Timelocks delay the team from making changes or withdrawing funds on behalf of users.
+Yield Yak矿池皆被时间锁定所保护。时间锁定将廷迟团队代表用家作出更改或提取资金的所需时间。
 
-The timelock address is: `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
+时间锁定的合约地址为： `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
 
   
 

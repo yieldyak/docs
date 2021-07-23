@@ -1,25 +1,25 @@
-# Impermanent Loss
+# 无常损失（Impermanent Loss）
 
-When a farmer provides liquidity on an AMM, the two assets are deposited at a 50:50 ratio of their value to each other \(at the time of depositing\). The AMM protocols are controlled by complex mathematical formulas that adjusts the ratios of the underlying assets in the pool whilst also determining their prices. As the value of AVAX and ETH fluctuates the AMM will adjust the LP farmers ratio to ensure they remain at a 50:50 value. This means that a farmer can lose out on gains from a deposited asset that outperforms. 
+当一名挖矿者于自动做市商（AMM）上提供流动性时，他需要以50:50的价值存入两种资产（于存款的那刻）。自动做市商被复杂的数学公式所控制，以自动调整相关资产的比例，并同时决定它们的价格。当AVAX和ETH的价格波动时，自动做市商会调整流动性挖矿者的资产比例以确保它们的价值维持于50:50。这意味着挖矿者可以失去一部分因某资产表现更好而获得的利润。
 
-So, for the purposes of this example let’s assume 1 ETH = 100 AVAX & 100 AVAX = 1 ETH. The farmer provides liquidity on an AMM and deposits 100 AVAX and 1 ETH and receives the ‘receipt’ \(LP\) token which can then be deposited on Yield Yak to auto-compound. In the event that the price of AVAX starts to increase as more and more people are purchasing AVAX. In this event, the pool adjusts the ratio to ensure the value remains split 50:50 across AVAX and ETH. 
+‌让我们看看以下例子，假设1ETH＝100AVAX及100AVAX＝1ETH。有一名挖矿者在一自动做市商上存入了100AVAX及1ETH以提供流动性，他同时获得了“收据”（LP）代币。接着他可以把其存于Yield Yak以自动计算复利。在此期间，AVAX的价格因愈来愈多人购买而上升，但流动资金池会自动更改比例而确保AVAX及ETH的价值比例维持于50:50。
 
-Now 1 ETH is suddenly only worth 50 AVAX because of the price jump in AVAX. But because the protocol automatically adjusted the amount of tokens in the pool, the farmer lost out on the AVAX rally. 
+‌由于AVAX价格急升，现在1ETH只等价于50AVAX。但因为流动资金池会自动调较于池内的代币数目，挖矿者会损失AVAX的总数。
 
-This is impermanent loss. If the price of ETH and AVAX fluctuate in line with each other then no IL is realised. But if one of the two assets price increases substantially then the farmer loses out.
+‌这就是无常损失。如果ETH和AVAX价格波动一致，无常损失并不会出现。但如果其中一种资产的价格大幅上升或下降，挖矿者将蒙受损失。
 
-In the example above the farmer would have been better off simply hodling their AVAX/ETH if they removed their liquidity from the AMM pool. 
+‌在上述的例子中，如果挖矿者不在自动做市商上提供流动性而单单持有AVAX和ETH，他将可以赚取更多。
 
-However, if the farmer stays in the pool and the value of AVAX goes back down to its original value then the value of the farmer's overall holdings will go back to the original value also and they would have 100 AVAX & 1 ETH \(or even more if they deposited their LP tokens on Yield Yak!\).  
+‌但是，如果挖矿者持续留于流动池内而AVAX回归原来的价值，那挖矿者的总资产价值将会返回原有数目—100 AVAX及1ETH（如果挖矿者存款于Yield Yak将会拥有更多ETH及AVAX！）。  
 
 
 ![](../../.gitbook/assets/il-graph.png)
 
-Remember, Impermanent Losses only become permanent once you remove your liquidity. 
+请仅记，无常损失仅当你移除流动性时变为永久性损失。
 
-## How to protect yourself against IL?
+## 如何保护自己不受无常损失影响？
 
-One way in which you can reduce your exposure to IL is to provide liquidity for pairs where the relative price of each asset remains fairly constant. For example, a stablecoin pair like DAI-USDT would give you very little exposure to IL.
+其中一个降低无常损失的机率的方法是为一对相对价格稳定的资产提供流动性。例如稳定币对如DAI-USDT，无币损失的机率和幅度相对地十分低。
 
-The downside of these pools however, is, you gain no benefit from price increase, the number of these pools are fewer and the returns may not be as attractive as other pools.
+‌但这些矿池的缺点是你不能赚取价格上升的利润。而且这些矿池的数目十分少并且未必有如其他矿池般高的回报。
 

@@ -1,27 +1,27 @@
 ---
-description: 'Earn More Yield, Save Time, and Reduce Variance'
+description: 赚取更多挖矿收益的同时节省时间和减少变数。
 ---
 
-# Why use Yield Yak?
+# 为什么要使用Yield Yak?
 
-## Save Time and Earn More Yield
+## 节省时间及赚取更多挖矿收益
 
-Many defi protocols pay rewards to users in the form of tokens \(farming rewards\). Farmers who claim rewards often and compound their deposits maximize their rewards and farming yield. However, most farmers do not reach an optimal level of returns for two reasons:
+很多去中心化金融产品以代币形式支付用家奖励（挖矿奖励）。挖矿者需要不时索取奖励并质押于池中以最大化他们的奖励及收益率。但是，有两个原因令大部分挖矿者未能达到最佳收益效果：
 
-* **Prohibitive gas costs** to claim and compound farming rewards
-* **High time commitment** to frequently compound
+* 索取奖励并再质押于矿池需要高昂的**交易费用**
+* 高频率的再质押**消耗大量时间**
 
-Yield Yak helps all farmers earn more yield by pooling assets and socializing the costs of compounding. This means much more frequent compounding, which happens automatically.
+Yield Yak集中所有人的资金和平分再质押的成本以帮助所有挖矿者赚取更多收益。这意味着用家可自动享更高频率的复利计算。
 
-## Reduce Variance on Reward Asset Prices
+## 减少奖励资产价格的变数
 
-Popular Yield Yak farms compound every few minutes or hours. Reward tokens are converted into deposit tokens on behalf of all users in the pool many times per day, providing users with a blended price exposure to reward assets.
+一些具人气的Yield Yak矿池每几分钟或几小时便会复利计算一次。该池会以每天数次的频率代表所有用家把挖矿奖励代币兑换成该池的质押，这让用家在不同价格下进行了交易。
 
-Consider an example: A farmer stakes $50 of LP tokens into a farm. The farmer receives rewards worth 0.05 AVAX per day. That means, on average, the farmer only generates enough value from claimed rewards to pay the gas costs by waiting for days or weeks.
+看看以下的例子：一个挖矿者质押了$50的LP代币于矿池。他每天能收到价值0.05AVAX的奖励。换句话说，他需要等上数天甚至数星期才有足够的奖励去支付索取奖励的交易费用。
 
-During this period where the farmer is waiting for the rewards to be worth claiming and compounding, they are at risk of the reward asset price shifting.
+在这段等待索取奖励并再质押的时间内，挖矿者将要面对奖励代币价钱波动的风险。
 
-Farmers who use Yield Yak instead, will earn the average price for rewards over the period while enjoying compounding effects on their deposits.
+使用Yield Yak的挖矿者将赚取奖励代币在质押期间的平均价钱，同时能享有复利计算。
 
 
 

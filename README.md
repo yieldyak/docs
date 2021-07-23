@@ -1,57 +1,57 @@
 ---
-description: Earn more yield. Tools for defi users on Avalanche.
+description: 赚取更多挖矿奖励。为雪崩公链（Avalanche）上去中心化金融用家而设。
 ---
 
-# Welcome
+# 欢迎
 
-## What is Yield Yak?
+## 什么是Yield Yak？
 
-### Autocompounder
+### 自动复利矿池
 
-Yield Yak is an easy-to-use tool to earn more yield from defi farming on the Avalanche network.
+Yield Yak 是一个让用家简单轻松地赚取更多挖矿奖励的工具。
 
-### Community-driven
+### 社群推动
 
-Yield Yak is a community-driven project. Our community has built and maintained the best, cheapest and most diverse autocompounder on the market.
+Yield Yak 是一个社群推动的项目。我们的社群建立了市场上最好、最便宜和最多选择的自动复利平台。
 
-### Self-sustaining
+### 自给自足
 
-Yield Yak is largely self-sustaining. Our community compounds rewards, suggests new strategies, proposes key configuration updates and contributes to development. Yield Yak farms can run forever, without the team's involvement.
+Yield Yak的工具大多可以自给自足。平台主要由社群参与再投资挖矿奖励、提议新的策略以及提出主要配置升级。Yield Yak可以在没有团队的参与下永久运行。
 
-## How does Yield Yak work?
+## Yield Yak 是如何运作的？
 
-Yield Yak auto-compounds yield farm rewards.
+Yield Yak自动复利计算挖矿奖励。
 
-* Each farm is a pool of deposits from Yield Yak users
-* Farms earn reward tokens \(like $PNG\)
-* Farms reinvest all rewards, compounding everyone's deposits
+* 每个矿池都集合了Yield Yak用家的存款
+* 矿池会赚取奖励代币（例如 $PNG）
+* 矿池会再投资所有奖励，复利计算所有人的存款
 
-All depositors benefit from the very high frequency of Yield Yak compounding. Learn more:
+所有存款者可以受益于Yield Yak的高复利计算频率。更多资讯：
 
 {% page-ref page="for-farmers/pool.md" %}
 
-## How do I get started?
+## 如何开始？
 
-Before you start using Yield Yak, you will need:
+开始使用Yield Yak前，你将需要：
 
 1. MetaMask
-2. AVAX on the Avalanche C-Chain subnet in your MetaMask account
+2. 于你MetaMask帐户内有一定AVAX于雪崩C链（Avalanche C-Chain subnet）上
 
-For help getting started, please see this guide from Ava Labs:
+如你需要协助，请参考由Ava Labs提供的指南：
 
 {% embed url="https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche" caption="" %}
 
-## Can I lose money?
+## 我有机会损失金钱吗？
 
-Yes. Use Yield Yak at your own risk with money you can afford to use. Do you own research.
+是的。请仅使用你能负担的金钱于Yield Yak，并自行研究及衡量风险。
 
-Yield Yak smart contracts are unaudited. Yield Yak relies on smart contracts from other platforms which may also be unaudited. Any funds lost by other platforms will affect Yield Yak users.
+Yield Yak的智能合约并未被审核。Yield Yak的运作亦需要依赖其他平台可能未被审核的智能合约。任何于其他平台的资金损失亦会影响Yield Yak用家。
 
 {% page-ref page="for-farmers/risks/" %}
 
-## Support
+## 支援
 
-If you are not sure about something, ask our community.
+如果你有任何不清楚的地方，请询问我们的社群。
 
 * [Telegram](https://t.me/yieldyak)
 * [Twitter](https://twitter.com/yieldyak_)

@@ -1,29 +1,29 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [欢迎](README.md)
 
-## For Yield Farmers <a id="for-farmers"></a>
+## 致挖矿者 <a id="for-farmers"></a>
 
-* [Why use Yield Yak?](for-farmers/pool.md)
-* [Returns and Tracking](for-farmers/returns.md)
-* [The Reinvest Button](for-farmers/reinvest.md)
-* [Farming Risks](for-farmers/risks/README.md)
-  * [Pool 2](for-farmers/risks/pool-2.md)
-  * [Impermanent Loss](for-farmers/risks/impermanent-loss.md)
-  * [Underlying Assets](for-farmers/risks/underlying.md)
-* [Yield Yak Farms](https://yieldyak.com/farms)
+* [为什么要使用Yield Yak?](for-farmers/pool.md)
+* [回报及收益追踪](for-farmers/returns.md)
+* [再投资按钮](for-farmers/reinvest.md)
+* [挖矿风险](for-farmers/risks/README.md)
+  * [第二矿池（Pool 2）](for-farmers/risks/pool-2.md)
+  * [无常损失（Impermanent Loss）](for-farmers/risks/impermanent-loss.md)
+  * [相关资产（Underlying Assets）](for-farmers/risks/underlying.md)
+* [Yield Yak 矿池](https://yieldyak.com/farms)
 
-## For Dex Traders <a id="for-traders"></a>
+## 致去中心化交易所交易者 <a id="for-traders"></a>
 
-* [Yield Yak Swap \(Alpha\)](https://yieldyak.com/swap)
+* [Yield Yak 交易 Alpha](https://yieldyak.com/swap)
 
-## $Yak Token <a id="token"></a>
+## $Yak 代币 <a id="token"></a>
 
-* [Tokenomics](token/tokenomics.md)
+* [代币经济（Tokenomics）](token/tokenomics.md)
 
-## More Info
+## 更多资讯 <a id="more-info"></a>
 
-* [Website](https://yieldyak.com/)
+* [网页](https://yieldyak.com/)
 * [Twitter](https://twitter.com/yieldyak_)
 * [Telegram](https://t.me/yieldyak)
 * [Medium](https://yieldyak.medium.com/)
