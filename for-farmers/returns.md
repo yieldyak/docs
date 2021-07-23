@@ -1,51 +1,51 @@
 ---
-description: Yield Yak displays returns from actual and recent performance
+description: Yield Yak zeigt die tatsächliche und die aktuelle Performance an
 ---
 
-# Returns and Tracking
+# Ertrag und Tracking
 
-## Returns Based on Actual and Recent Performance
+## Der angezeigte Ertrag beruht auf der tatsächlichen und aktuellen Performance
 
-Yield Yak calculates returns using actual and recent performance.
+Yield Yak berechnet den Ertrag, auf Grund der aktuellen und tatsächlichen Performance.
 
-* Simple APY is based on recent performance, which is annualized without compounding.
-* Compound APY considers that your farming assets grow and compound and displays the simple daily ROI compounded over a year.
+* **Simple APY** basiert auf der aktuellen Performance ohne das Reinvestieren der Belohnungen zu berücksichtigen. Der angezeigte Prozentsatz ist der voraussichtliche Ertrag pro Jahr in Prozent. 
+* **Compound APY** berücksichtigt in der Berechnung dass deine Farming Assets wachsen und dadurch dein Investment und daraus resultierende Ertrag gesteigert wird. Der angezeigte Prozentsatz ist der voraussichtliche Ertrag pro Jahr in Prozent unter Berücksichtigung der Reinvestitionen.
 
-Returns are variable and depend on many factors.
+Beachte: Erträge sind variable und beruhen auf vielen Faktoren.
 
 {% hint style="info" %}
-**Comparing Returns**
+**Erträge vergleichen**
 
-If you are comparing returns to other sites, consider that different sites use different methodologies. Some estimate returns with inaccurate and static assumptions about blocks per day, reward asset price, etc.
+Wenn du die Erträge mit der anderer Seiten vergleichst behalte im Kopf dass jede Seite den potentiellen Ertrag anders berechnet. Manche Seiten legen ihren Berechnungen falsche oder statische Annahmen wie Blöcke per Tag, den Preis der Belohnungen etc. zu Grunde und zeigen deshalb falsche Daten an.
 {% endhint %}
 
-## Returns Based on Deposit Asset Growth
+## Erträge durch die Vermehrung des angelegten Asset
 
-Yield Yak farms are designed to grow the deposit asset. All returns are provided in terms of the deposit asset \(LP tokens, usually\).
+Die Farms auf Yield Yak sind alle darauf ausgelegt das angelegte Asset zu vermehren. Alle Erträge werden werden in Form des angelegten Asset generiert. \(in den meisten Fällen LP Token\)
 
-Due to impermanent loss and price volatility, deposit assets could grow while the USD value of underlying assets change. Learn more:
+Auf Grund von "Impermanent Loss" und Preisschwankungen könnte es sein das sich die Menge der angelegten Assets vermehrt obwohl der USD-Wert, der des Assets zugrundeliegenden Token, sich ändert. Erfahre mehr:
 
 {% page-ref page="risks/" %}
 
-## Tracking Returns
+## Tracking der Erträge 
 
-The best way to track deposits and growth is to compare your deposited tokens with your current staked balance.
+Der beste Weg seine Erträge zu verfolgen ist die Menge der ursprünglich angelegten Assets mit der derzeitigen Menge zu vergleichen.
 
 {% hint style="success" %}
 **Third-party Tracking Services**
 
-Services like [markr.io](https://markr.io/) provide additional tracking services for Yield Yak positions.
+Services wie [markr.io](https://markr.io/) bieten zusätzliche Möglichkeiten seine Anlagen zu verfolgen.
 {% endhint %}
 
-### How can I see the underlying value of my LP tokens?
+### Wo sehe ich den meiner LP Tokens zugrundeliegenden Wert?
 
-Hover \(or tap\) the figure under &lt;My TVL&gt; to see the estimated underlying tokens.
+Bewege deinen Mauszeiger über die Zahl unter &lt;My TVL&gt; um dir die ungefähre Menge der zugrundeliegenden Tokens anzuzeigen zu lassen.
 
-## Timelock Protects Users
+## Timelocks schützen die Nutzer
 
-Yield Yak farms are protected by a timelock. Timelocks delay the team from making changes or withdrawing funds on behalf of users.
+Alle Farms auf Yield Yak schützen mittels Timelock ihre Nutzer. Timelocks machen es dem Team unmöglich kurzfristige Änderungen an den Farms durchzuführen oder die Anlagen im Namen der Nutzer abzuziehen. Die Nutzer werden durch eine erzwungene Verzögerung solcher Aktivitäten geschützt.
 
-The timelock address is: `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
+Die Adresse des Timelock lautet: `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
 
   
 

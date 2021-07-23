@@ -1,19 +1,19 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Willkommen](README.md)
 
-## For Yield Farmers <a id="for-farmers"></a>
+## Für Yield Farmers <a id="for-farmers"></a>
 
-* [Why use Yield Yak?](for-farmers/pool.md)
-* [Returns and Tracking](for-farmers/returns.md)
-* [The Reinvest Button](for-farmers/reinvest.md)
-* [Farming Risks](for-farmers/risks/README.md)
+* [Wieso sollte man Yield Yak verwenden?](for-farmers/pool.md)
+* [Ertrag und Tracking](for-farmers/returns.md)
+* [Der Reinvestieren Button](for-farmers/reinvest.md)
+* [Farming Risiken](for-farmers/risks/README.md)
   * [Pool 2](for-farmers/risks/pool-2.md)
   * [Impermanent Loss](for-farmers/risks/impermanent-loss.md)
-  * [Underlying Assets](for-farmers/risks/underlying.md)
+  * [Zugrundeliegende Assets](for-farmers/risks/underlying.md)
 * [Yield Yak Farms](https://yieldyak.com/farms)
 
-## For Dex Traders <a id="for-traders"></a>
+## Für DEX Traders <a id="for-traders"></a>
 
 * [Yield Yak Compare](https://yieldyak.com/compare)
 
@@ -21,9 +21,9 @@
 
 * [Tokenomics](token/tokenomics.md)
 
-## More Info
+## Weitere Informationen <a id="more-info"></a>
 
-* [Website](https://yieldyak.com/)
+* [Webseite](https://yieldyak.com/)
 * [Twitter](https://twitter.com/yieldyak_)
 * [Telegram](https://t.me/yieldyak)
 * [Medium](https://yieldyak.medium.com/)

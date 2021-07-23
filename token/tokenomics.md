@@ -1,28 +1,28 @@
 # Tokenomics
 
 {% hint style="warning" %}
-**Token not available**
+**Der Token ist noch nicht verfügbar!**
 
-The $YAK token has not been deployed. Do not get scammed.
+Der $YAK Token wurde noch nicht veröffentlicht. Lass dich nicht betrügen.
 {% endhint %}
 
-## Total Supply
+## Gesamtangebot
 
-10,000 $YAK \(est. wild yaks roaming on Earth\)
+10.000 $YAK \(entspricht ungefähr der Anzahl, an in freier Wildbahn lebender, Yaks\)
 
-## Distribution
+## Verteilung
 
-Early users took considerable risk using a new platform. Their feedback formed the product. Therefore the initial distribution of $YAK tokens is heavily weighted toward early users:
+Die ersten Benutzer von Yield Yak waren durch die Nutzung einer neuen Plattform einem erhöhten Risiko ausgesetzt. Das Feedback dieser Benutzer hat die Plattform maßgeblich mitgestaltet. Aus diesem Grund werden eben diese Benutzer besonders in der initialen Verteilung der $YAK Token berücksichtigt.
 
-* 50% Depositors \(snapshot pending\)
-* 15% Reinvest pushers \(snapshot taken\)
+* 50% Einzahler \(Schnappschuss noch ausstehend\)
+* 15% Reinvest Button Benutzer \(Schnappschuss bereits durchgeführt\)
 * 15% Team
-* 15% Partners
-* 5% Community \(snapshot taken\)
+* 15% Partner
+* 5% Community \(Schnappschuss bereits durchgeführt\)
 
 ## Utility
 
-* **On-chain Governance.** Staked $YAK will control the network, including parameters for fees and other important configurations.
-* **Native Revenue.** Staked $YAK will receive $AVAX. Network revenue \(collected in tokens, usually\) will be converted to AVAX and distributed to stakers.
-* **Sustainable Incentives.** Any incentive models that distribute $YAK will be accomplished by using network revenue instead of inflating supply.
+* **On-chain Governance.** Staked $YAK werden das Netzwerk steuern,  unter anderem die Gebühren und andere wichtige Konfigurations-Parameter.
+* **Native Einkünfte.** Staked $YAK erhalten $AVAX.  Die Einnahmen des Netzwerk \(normalerweise in Tokens\) werden in $AVAX konvertiert und an die Stakers verteilt.
+* **Anreize ohne Inflation.** Das Angebot an $YAK ist fixiert und kann nicht erhöht werden. Alle Anreize werden Token verteilen ohne das Angebot an $YAK zu erhöhen.
 

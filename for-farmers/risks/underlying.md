@@ -1,12 +1,12 @@
-# Underlying Assets
+# Zugrundeliegende Assets
 
-## **Help! Why is my TVL figure going down? Am I losing money?**
+## **Hilfe! Warum sinkt mein TVL Wert? Verliere ich Geld?**
 
-Your TVL \(Total Value Locked\) within Yield Yak is represented in USD and the price is obtained from CoinGecko’s price feed. The TVL is calculated by taking the farmers underlying assets in the farm and converting to the current price in USD. This means that if the price of the underlying assets fluctuates against the US Dollar then the value of your TVL will fluctuate also. Remember, however, that the auto-compounding is still adding LP tokens to your share of the farm. So, whilst your TVL represented in USD may have decreased in value, you are still increasing your LP tokens and getting the benefit of Yield Yak’s auto-compounding.
+Dein TVL \(Total Value Locked\) wird auf Yield Yak in USD angezeigt. Die Preise der zugrundeliegenden Token stammen von CoinGecko. Der TVL wird berechnet in dem die zugrundeliegenden Assets in ihren derzeitigen USD Preis konvertiert werden. Aus diesem Grund fluktuiert der TVL wenn der Wert der Assets in Bezug auf den US-Dollar fluktuieren. Beachte jedoch dass durch die Reinvestition der Belohnungen die Menge deiner LP Tokens weiter steigt. Während also dein TVL im Dollar Wert eventuell sinkt, steigt weiterhin die Anzahl deiner LP Tokens und du profitierst weiterhin von den Reinvestitionen auf Yield Yak.
 
-## Smart Contract Risk
+## Smart Contract Risiko
 
-Yield Yak interacts with many external smart contracts. Yield Yak users take smart contract risk on Yield Yak contracts themselves, plus any external contracts Yield Yak interacts with.
+Yield Yak interagiert mit vielen externen Smart Contracts. Die Benutzer von Yield Yak sind deshalb nicht nur dem Risiko der Smart Contracts von Yield Yak selbst ausgesetzt, sondern auch dem Risiko welches von den externen Smart Contract mit denen Yield Yak interagiert, ausgeht.
 
-Deposits for each Yield Yak farm are isolated, meaning that assets held in "risky" farms cannot affect assets held in "safe" farms.
+Investitionen in jeder Yield Yak Farm sind isoliert, das bedeutet dass Investitionen in eine "risikoreiche" Farm keine Auswirkung auf Investitionen in "sichere" Farms haben können.
 
