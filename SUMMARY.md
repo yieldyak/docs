@@ -15,7 +15,7 @@
 
 ## 致去中心化交易所交易者 <a id="for-traders"></a>
 
-* [Yield Yak 格價](https://yieldyak.com/compare)
+* [Yield Yak 交易 Alpha](https://yieldyak.com/swap)
 
 ## $Yak 代幣 <a id="token"></a>
 
