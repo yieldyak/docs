@@ -15,7 +15,7 @@
 
 ## Pour les traders DEX <a id="for-traders"></a>
 
-* [Yield Yak Compare](https://yieldyak.com/compare)
+* [Yield Yak Swap Alpha](https://yieldyak.com/swap)
 
 ## $Yak Token <a id="token"></a>
 
