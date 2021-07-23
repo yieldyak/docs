@@ -26,3 +26,5 @@ Early users took considerable risk using a new platform. Their feedback formed t
 * **Native Revenue.** Staked $YAK will receive $AVAX. Network revenue \(collected in tokens, usually\) will be converted to AVAX and distributed to stakers.
 * **Sustainable Incentives.** Any incentive models that distribute $YAK will be accomplished by using network revenue instead of inflating supply.
 
+
+
