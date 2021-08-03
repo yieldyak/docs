@@ -1,25 +1,25 @@
 # Pool 2
 
-## New Pool 2 farms are especially risky
+## Las nuevas granjas de Fondo 2 son especialmente riesgosas
 
-### What are Pool 2 farms?
+### ¿Qué son las granjas de Fondo 2?
 
-Pool 2 farms reward an asset that is included in the pool. For example,
+Las granjas de Fondo 2 recompensan un activo que está incluido en este fondo. Por ejemplo:
 
-* AVAX-PNG rewards PNG
-* AVAX-PEFI rewards PEFI
+* AVAX-PNG recompensa PNG
+* AVAX-PEFI recompensa PEFI
 
-In contrast, Pool 1 farms do not contain the reward asset. For example, AVAX-LINK rewards PEFI.
+En contraste, las granjas de Fondo 1 no contienen el activo de recompensa. Por ejemplo, AVAX-LINK recompensa PEFI.
 
-### High Token Emission Rates Increase Risk/Reward
+### Altas Tasas de Emisión de Token Incrementan el Riesgo/Recompensa
 
-Pool 2 farms are designed to generate liquidity for the reward token, which usually compensate early farmers with very high returns by using a very high emission rate.
+Las granjas de Fondo 2 están diseñadas para generar liquidez para el token de recompensa, lo cual usualmente compensa a los primeros farmers con ganancias muy altas usando una tasa de emisión muy alta.
 
-Early in these systems, there are two competing forces generating volatility. On one hand, there is buying pressure from farmers who want attractive returns. On the other hand, early farmers place selling pressure on the reward token. More volatility may lead to loss due to the underlying assets losing value.
+Al inicio en estos sistemas, hay dos fuerzas competitivas generando volatilidad. Por un lado, está la presión por comprar de los farmers que quieren ganancias atractivas. Por el otro lado, los primeros farmers colocan presión de venta en el token de recompensa. Más volatilidad puede llevar a pérdida debido a la pérdida de valor de los activos subyacentes.
 
-This increased risk explains the very high returns often associated with Pool 2 farms.
+Este riesgo incrementado explica las ganancias muy altas asociadas a menudo con las granjas de Fondo 2.
 
-## Are Pool 2 farms always high risk? Should I avoid them?
+## ¿Son siempre las granjas de Fondo 2 de alto riesgo? ¿Debo evitarlos?
 
-Not necessarily. Established Pool 2 farms may have a risk profile more similar to Pool 1 farms. This shift depends most on the token emission rate and volatility.
+No necesariamente. Las granjas de Fondo 2 establecidas pueden tener un perfil de riesgo más similar a las granjas de Fondo 1. Este cambio depende más en la tasa de emisión de token y volatilidad.
 

@@ -1,28 +1,30 @@
-# Tokenomics
+# Economía del Token
 
 {% hint style="warning" %}
-**Token not available**
+**Token no disponible**
 
-The $YAK token has not been deployed. Do not get scammed.
+El token $YAK no ha sido desplegado. No se deje estafar.
 {% endhint %}
 
-## Total Supply
+## Suministro Total
 
-10,000 $YAK \(est. wild yaks roaming on Earth\)
+10,000 $YAK \(yaks salvajes estimados deambulando en la Tierra\)
 
-## Distribution
+## Distribución
 
-Early users took considerable risk using a new platform. Their feedback formed the product. Therefore the initial distribution of $YAK tokens is heavily weighted toward early users:
+Los primeros usuarios tomaron un riesgo considerable utilizando una plataforma nueva. Su retroalimentación formó el producto. Por lo tanto la distribución inicial de tokens $YAK es tokens está altamente ponderada hacia los primeros usuarios:
 
-* 50% Depositors \(snapshot pending\)
-* 15% Reinvest pushers \(snapshot taken\)
-* 15% Team
-* 15% Partners
-* 5% Community \(snapshot taken\)
+* 50% Depositantes \(captura pendiente\)
+* 15% Pulsadores de Reinversión \(captura tomada\)
+* 15% Equipo
+* 15% Socios
+* 5% Comunidad \(captura pendiente\)
 
-## Utility
+## Utilidad
 
-* **On-chain Governance.** Staked $YAK will control the network, including parameters for fees and other important configurations.
-* **Native Revenue.** Staked $YAK will receive $AVAX. Network revenue \(collected in tokens, usually\) will be converted to AVAX and distributed to stakers.
-* **Sustainable Incentives.** Any incentive models that distribute $YAK will be accomplished by using network revenue instead of inflating supply.
+* **Gobernanza On-chain.** $YAK invertidos controlarán la red, incluyendo los parámetros para tasas y otras configuraciones importantes.
+* **Ingresos Nativos.** $YAK invertidos recibirán $AVAX. El ingreso de red \(cobrado en tokens, normalmente\) será convertido a AVAX y distribuidos a los stakers.
+* **Incentivos Sostenibles.** Cualquier modelo de incentivo que distribuya $YAK será logrado usando el ingreso de red en lugar de inflar el suministro.
+
+
 

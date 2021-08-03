@@ -1,12 +1,12 @@
-# Underlying Assets
+# Activos Subyacentes
 
-## **Help! Why is my TVL figure going down? Am I losing money?**
+## ¡Ayuda! ¿Por qué mi cifra de TVL está bajando? ¿Estoy perdiendo dinero?
 
-Your TVL \(Total Value Locked\) within Yield Yak is represented in USD and the price is obtained from CoinGecko’s price feed. The TVL is calculated by taking the farmers underlying assets in the farm and converting to the current price in USD. This means that if the price of the underlying assets fluctuates against the US Dollar then the value of your TVL will fluctuate also. Remember, however, that the auto-compounding is still adding LP tokens to your share of the farm. So, whilst your TVL represented in USD may have decreased in value, you are still increasing your LP tokens and getting the benefit of Yield Yak’s auto-compounding.
+Su TVL \(Valor Total Bloqueado, Total Value Locked en inglés\) dentro de Yield Yak está representado en USD y el precio es obtenido del indicador de precios CoinGecko. El TVL es calculado tomando los activos subyacentes de los farmers en la granja y convirtiendo el precio actual en USD. Esto significa que si el precio de los activos subyacentes fluctúa contra el Dólar Americano entonces el valor de su TVL fluctuará también. Recuerde, sin embargo, que la combinación automática está aún añadiendo tokens LP a su acción de la granja. Así que, aunque su TVL representado en USD puede haber disminuido en valor, Ud. aún está incrementando sus tokens LP y obteniendo el beneficio de la combinación automática de Yield Yak.
 
-## Smart Contract Risk
+## Riesgo de Contrato Inteligente
 
-Yield Yak interacts with many external smart contracts. Yield Yak users take smart contract risk on Yield Yak contracts themselves, plus any external contracts Yield Yak interacts with.
+Yield Yak interactúa con muchos contratos inteligentes externos. Los usuarios de Yield Yak toman ellos mismos el riesgo del contrato inteligente en los contratos de Yield Yak, más cualquier contrato externo con el que interactúe Yield Yak.
 
-Deposits for each Yield Yak farm are isolated, meaning that assets held in "risky" farms cannot affect assets held in "safe" farms.
+Los depósitos por cada granja de Yield Yak están aislados, lo que significa que los activos mantenidos en granjas “riesgosas” no pueden afectar los activos mantenidos en granjas “seguras”.
 
