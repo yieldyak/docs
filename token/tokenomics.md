@@ -1,11 +1,5 @@
 # Tokenomics
 
-{% hint style="warning" %}
-**Der Token ist noch nicht verfügbar!**
-
-Der $YAK Token wurde noch nicht veröffentlicht. Lass dich nicht betrügen.
-{% endhint %}
-
 ## Gesamtangebot
 
 10.000 $YAK \(entspricht ungefähr der Anzahl, an in freier Wildbahn lebender, Yaks\)
