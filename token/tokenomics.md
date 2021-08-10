@@ -1,11 +1,5 @@
 # Economía del Token
 
-{% hint style="warning" %}
-**Token no disponible**
-
-El token $YAK no ha sido desplegado. No se deje estafar.
-{% endhint %}
-
 ## Suministro Total
 
 10,000 $YAK \(yaks salvajes estimados deambulando en la Tierra\)
