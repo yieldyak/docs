@@ -1,11 +1,5 @@
 # Tokenomics
 
-{% hint style="warning" %}
-**Token henüz yok**
-
-$YAK tokenı daha üretilmedi. Dolandırıcılara karşı dikkatli olun.
-{% endhint %}
-
 ## Toplam Arz
 
 10,000 $YAK \(toplamda olacak YAK sayısı\)
