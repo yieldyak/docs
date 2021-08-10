@@ -19,6 +19,7 @@
 
 ## $Yak Token <a id="token"></a>
 
+* [Token Details](token/details.md)
 * [Tokenomics](token/tokenomics.md)
 
 ## More Info
