@@ -5,7 +5,7 @@
 * Name: `Yak Token`
 * Symbol: `YAK` 
 * Decimals: `18` 
-* Address: `0x5929cDDE7C7715D3E42F577E5CADcf2C2D246c52` 
+* Address: `0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7` 
 
 #### Brand Assets
 
