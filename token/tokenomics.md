@@ -1,11 +1,5 @@
 # Tokenomics
 
-{% hint style="warning" %}
-**Le jeton Yield Yak n'est pas disponible !**
-
-Le jeton $YAK n'a pas encore été déployé. Attention aux arnaques.
-{% endhint %}
-
 ## Supply total
 
 10,000 $YAK \(estimation du nombre de yaks sauvages en liberté sur Terre\)
