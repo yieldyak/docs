@@ -19,6 +19,7 @@
 
 ## $Yak 代幣 <a id="token"></a>
 
+* [代幣詳情](token/dai-bi-xiang-qing.md)
 * [代幣經濟（Tokenomics）](token/tokenomics.md)
 
 ## 更多資訊 <a id="more-info"></a>
