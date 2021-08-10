@@ -20,6 +20,7 @@
 ## $Yak Token <a id="token"></a>
 
 * [Tokenomics](token/tokenomics.md)
+* [Token Detayları](token/token-detaylari.md)
 
 ## More Info
 
