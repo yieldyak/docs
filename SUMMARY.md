@@ -22,6 +22,10 @@
 * [Token Details](token/details.md)
 * [Tokenomics](token/tokenomics.md)
 
+## For Developers
+
+* [Bug Bounty](for-developers/bug-bounty.md)
+
 ## More Info
 
 * [Website](https://yieldyak.com/)
