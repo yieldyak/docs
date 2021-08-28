@@ -22,6 +22,10 @@
 * [代幣詳情](token/dai-bi-xiang-qing.md)
 * [代幣經濟（Tokenomics）](token/tokenomics.md)
 
+## 致開發者
+
+* [漏洞回報獎勵（Bug Bounty）](zhi-kai-fa-zhe/lou-dong-hui-bao-jiang-li-bug-bounty.md)
+
 ## 更多資訊 <a id="more-info"></a>
 
 * [網頁](https://yieldyak.com/)
