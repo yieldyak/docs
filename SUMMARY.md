@@ -24,6 +24,7 @@
 
 ## For Developers
 
+* [Integrations](for-developers/integrations.md)
 * [Bug Bounty](for-developers/bug-bounty.md)
 
 ## More Info
