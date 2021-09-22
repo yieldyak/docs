@@ -26,8 +26,10 @@
 
 ## For Developers
 
+* [Avalanche Rush Incentives](for-developers/avalanche-rush-incentives.md)
 * [Integrations](for-developers/integrations.md)
 * [Bug Bounty](for-developers/bug-bounty.md)
+* [Yak Devs Telegram](https://t.me/yakdevs)
 
 ## More Info
 
