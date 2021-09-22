@@ -21,6 +21,7 @@
 
 * [Token Details](token/details.md)
 * [Tokenomics](token/tokenomics.md)
+* [Treasury](token/treasury.md)
 
 ## For Developers
 
