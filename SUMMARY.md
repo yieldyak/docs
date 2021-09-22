@@ -30,6 +30,7 @@
 * [Integrations](for-developers/integrations.md)
 * [Bug Bounty](for-developers/bug-bounty.md)
 * [Yak Devs Telegram](https://t.me/yakdevs)
+* [GitHub](https://github.com/yieldyak)
 
 ## More Info
 
@@ -37,5 +38,8 @@
 * [Twitter](https://twitter.com/yieldyak_)
 * [Telegram](https://t.me/yieldyak)
 * [Medium](https://yieldyak.medium.com/)
-* [GitHub](https://github.com/yieldyak)
+
+---
+
+* [Discord](https://discord.gg/Dsdd2nMFud)
 
