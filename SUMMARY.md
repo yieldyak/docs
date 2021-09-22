@@ -11,12 +11,12 @@
   * [Pool 2](for-farmers/risks/pool-2.md)
   * [Impermanent Loss](for-farmers/risks/impermanent-loss.md)
   * [Underlying Assets](for-farmers/risks/underlying.md)
-* [Yield Yak Farms](https://yieldyak.com/farms)
+* [YY Farms](https://yieldyak.com/farms)
 
 ## For Dex Traders <a id="for-traders"></a>
 
-* [Why use Yield Yak?](for-traders/why-use-yield-yak.md)
-* [Yield Yak Swap \(Alpha\)](https://yieldyak.com/swap)
+* [Why use YY Swap?](for-traders/swap.md)
+* [YY Swap](https://yieldyak.com/swap)
 
 ## $Yak Token <a id="token"></a>
 

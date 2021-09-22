@@ -2,7 +2,7 @@
 description: 'Search the best price, lower price slippage, execute with one click.'
 ---
 
-# Why use Yield Yak?
+# Why use YY Swap?
 
 ## Best Price Search
 
