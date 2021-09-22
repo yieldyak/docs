@@ -15,6 +15,7 @@
 
 ## For Dex Traders <a id="for-traders"></a>
 
+* [Why use Yield Yak?](for-traders/why-use-yield-yak.md)
 * [Yield Yak Swap \(Alpha\)](https://yieldyak.com/swap)
 
 ## $Yak Token <a id="token"></a>
