@@ -17,6 +17,7 @@
 
 * [Why use YY Swap?](for-traders/swap.md)
 * [YY Swap](https://yieldyak.com/swap)
+* [Emergency Withdrawal How-to](for-traders/emergency-withdrawal-how-to.md)
 
 ## $Yak Token <a id="token"></a>
 
@@ -38,8 +39,5 @@
 * [Twitter](https://twitter.com/yieldyak_)
 * [Telegram](https://t.me/yieldyak)
 * [Medium](https://yieldyak.medium.com/)
-
----
-
 * [Discord](https://discord.gg/Dsdd2nMFud)
 
