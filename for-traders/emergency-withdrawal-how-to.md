@@ -26,7 +26,7 @@ Scroll up to the top of the page and click 'View Contract':
 
 ![](../.gitbook/assets/view-contract.png)
 
-On the subsequent page click on the 'Write Contract' tab on the far right:
+On the subsequent page, click on the 'Write Contract' tab \(far right\):
 
 ![](../.gitbook/assets/write-contract-tab.png)
 
