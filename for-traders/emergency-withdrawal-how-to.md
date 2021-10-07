@@ -1,12 +1,14 @@
 # Emergency Withdrawal How-to
 
-In the event that you are unable to interact with http://yieldyak.com for whatever reason, you will find a helpful guide on how to interact with Yield Yak farms and contracts directly from the explorer.
+In the event that you are unable to interact with http://yieldyak.com for whatever reason, you may need to conduct a withdrawal from the contract. Below, you will find a helpful guide on how to interact with Yield Yak farms and contracts directly from the explorer.
 
 ## Step 1. Locate the particular farm you wish to remove your LP from
 
-Go to C-Chain Explorer: [https://cchain.explorer.avax.network/](https://cchain.explorer.avax.network/) and in the search bar \(top right\) type 'Yield Yak'. It should look like this: Scroll down until you find your farm or enter more text in the search to refine the results.
+Go to C-Chain Explorer: [https://cchain.explorer.avax.network/](https://cchain.explorer.avax.network/) and in the search bar \(top right\) type 'Yield Yak'. It should look like the image below. 
 
 ![C-Chain Explorer Search Field](../.gitbook/assets/c-chain-explorer-search.png)
+
+Scroll down until you find your farm or enter more text in the search to refine the results.
 
 ## Step 2: Read Contract and balance
 
