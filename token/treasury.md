@@ -6,15 +6,17 @@ description: The YY approach to treasury and listing of related accounts
 
 ## Opinionated Treasury
 
-The Opinionated Treasury takes a generally bullish stance on the Avalanche DeFi \(which YY depends on\) while also contributing TVL and fees to the platform and ecosystem.
+The Opinionated Treasury takes a generally bullish stance on the Avalanche DeFi (which YY depends on) while also contributing TVL and fees to the platform and ecosystem.
 
-{% embed url="https://yieldyak.medium.com/the-opinionated-treasury-9c91574dc93f" caption="The Opinionated Treasury" %}
+{% embed url="https://yieldyak.medium.com/the-opinionated-treasury-9c91574dc93f" %}
+The Opinionated Treasury
+{% endembed %}
 
 The treasury is managed by committee with funds held in a separately controlled multisig and other contracts and accounts.
 
 ## Treasury Accounts
 
-### Yak Treasury Multisig
+### 🏦 Yak Treasury Multisig
 
 Holds long-term treasury funds.
 
@@ -24,19 +26,33 @@ Holds long-term treasury funds.
 * 3 of 5
   * **Yak Man**, Team YY
   * **Snow Yak**, Team YY
-  * **Mark**, Avalaunche
+  * **Mark**, Avalaunch
   * **Sarp**, Markr
   * **0xmurloc**, Trader Joe
 
-### Yak Timelock
+### ⏳ Yak Timelock
 
-Collects revenue in tokens. Holds very short-term treasury funds, especially those which may not have not been collected yet.
+Collects revenue in tokens. Holds very short-term treasury funds, especially those which may not have been collected yet.
 
 * `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
   * [Explorer](https://cchain.explorer.avax.network/address/0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7/contracts)
   * Trackers: [Markr](https://markr.io/#/wallet?address=0x8d36c5c6947adccd25ef49ea1aac2ceacfff0bd7), [DeBank](https://debank.com/profile/0x8d36c5c6947adccd25ef49ea1aac2ceacfff0bd7?chain=avax)
 
-### Yak Deployer
+{% hint style="info" %}
+**Upgrade in Progress (November 7, 2021)**
+
+The Yak Timelock is being replaced by the Yak Fee Collector
+{% endhint %}
+
+### 💰 Yak Fee Collector
+
+Collects revenue in tokens. Holds very short-term treasury funds, especially those which may not have been collected yet.
+
+* `0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF`
+  * [Explorer](https://cchain.explorer.avax.network/address/0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF/contracts)
+  * Trackers: [Marker](https://markr.io/#/wallet?address=0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF), [DeBank](treasury.md#opinionated-treasury)
+
+### 🧑‍💻 Yak Deployer
 
 Holds shorter-term treasury funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform.
 
@@ -46,7 +62,7 @@ Holds shorter-term treasury funds, especially those which may be lower in value 
 
 ## Other Accounts
 
-### YY Ecosystem
+### 🌱 YY Ecosystem
 
 Holds ecosystem funds, used to support initiatives in Avalanche DeFi and Yield Yak ecosystems. Spent at the discretion of the team, similar in nature to a marketing budget.
 
@@ -54,10 +70,9 @@ Holds ecosystem funds, used to support initiatives in Avalanche DeFi and Yield Y
   * [Explorer](https://cchain.explorer.avax.network/address/0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e/transactions)
   * Trackers: [Markr](https://markr.io/#/wallet?address=0x383be9aed6d91af96e4c02dc6301cb0adae7422e), [DeBank](https://debank.com/profile/0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e?chain=avax)
 
-### YY Team
+### 🐂 YY Team
 
 Holds team tokens.
 
 * `0x1Dd981D51f10f2Dd79f8a0796f30a577B06E79d2`
   * [Explorer](https://cchain.explorer.avax.network/address/0x1Dd981D51f10f2Dd79f8a0796f30a577B06E79d2/transactions)
-
