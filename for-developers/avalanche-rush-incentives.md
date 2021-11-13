@@ -1,5 +1,5 @@
 ---
-description: '$100,000 in developer incentives to build on YY Swap'
+description: $100,000 in developer incentives to build on YY Swap
 ---
 
 # Avalanche Rush Incentives
@@ -10,7 +10,7 @@ description: '$100,000 in developer incentives to build on YY Swap'
 
 ## GitHub
 
-Issues tagged with **AVAX Bounty** are eligible for developer incentives. These are not the only ideas that can be explored. If you have new ideas to try, please join the Yak Devs Telegram to share new proposals.
+Issues tagged with **AVAX Bounty **are eligible for developer incentives. These are not the only ideas that can be explored. If you have new ideas to try, please join the Yak Devs Telegram to share new proposals.
 
 ### Explore the repo
 
@@ -19,6 +19,4 @@ Issues tagged with **AVAX Bounty** are eligible for developer incentives. These 
 ## Developer Support
 
 {% embed url="https://t.me/yakdevs" %}
-
-
 

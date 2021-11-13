@@ -20,7 +20,7 @@ You do not need to participate in the pool to be able to receive the reinvest re
 
 ## Example of the Reinvest Process
 
-So for example, let's say you're in the below pool \(Pangolin ETH-AVAX / PEFI\). 
+So for example, let's say you're in the below pool (Pangolin ETH-AVAX / PEFI).&#x20;
 
 ![](../.gitbook/assets/screen-shot-2021-05-14-at-9.06.18-pm.png)
 
@@ -28,8 +28,8 @@ By participating in this pool, you have provided liquidity on Pangolin in the fo
 
 A reinvestor presses the button when there is a pending balance of 100 PEFI.
 
-* The reinvestor collects 3 PEFI \(given a 3% reward\)
-* The treasury collects 5 PEFI \(given a 5% fee\)
+* The reinvestor collects 3 PEFI (given a 3% reward)
+* The treasury collects 5 PEFI (given a 5% fee)
 * The remaining PEFI are reinvested
 
 The remaining PEFI are sold for ETH and AVAX, added to Pangolin LP tokens and then deposited back in the pool.
@@ -38,7 +38,7 @@ The remaining PEFI are sold for ETH and AVAX, added to Pangolin LP tokens and th
 
 ### Protection Mechanism
 
-The reinvest function contains a protection mechanism in order to limit how quickly two reinvests may happen in a row. By design, the second transaction \(which receives almost no reward\) should fail at a very low gas cost \(~0.03 AVAX\) instead of being executed with the full gas usage.
+The reinvest function contains a protection mechanism in order to limit how quickly two reinvests may happen in a row. By design, the second transaction (which receives almost no reward) should fail at a very low gas cost (\~0.03 AVAX) instead of being executed with the full gas usage.
 
 If you receive almost no reward because someone else was slightly faster and your transaction was successful, please suggest a change to this configuration to our team.
 
@@ -46,7 +46,7 @@ If you receive almost no reward because someone else was slightly faster and you
 
 If you encounter a transaction failure after pressing the reinvest button, this is normally for one of two reasons:
 
-1. Somehow you managed to submit a transaction when the token reward was below the minimum threshold. The fee \(gas\) is relatively low, however. \(~0.03 AVAX\).
+1. Somehow you managed to submit a transaction when the token reward was below the minimum threshold. The fee (gas) is relatively low, however. (\~0.03 AVAX).
 2. Somehow the default gas limit for reinvest is not sufficient for the transaction. You may need to manually increase the gas limit. Failure due to this may end up costing you the entire default gas limit.
 
 ### Fees
@@ -56,10 +56,9 @@ Fees are collected each time a farm is compounded, from the reward tokens.
 Fees are usually between 5-10% of the reward tokens. Fees are variable and change with network conditions to optimize rewards. There are three categories of fees:
 
 1. **Reinvest Reward** - paid to reinvestor who presses the button
-2. **Admin fee** - paid to network
+2. **Admin fee **- paid to network
 3. **Developer fee** - paid to developer who wrote the strategy
 
-Yield Yak enforces no deposit or withdraw fees \(although the underlying farms may\).
+Yield Yak enforces no deposit or withdraw fees (although the underlying farms may).
 
-  
-
+&#x20;&#x20;

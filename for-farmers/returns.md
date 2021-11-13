@@ -21,11 +21,13 @@ If you are comparing returns to other sites, consider that different sites use d
 
 ## Returns Based on Deposit Asset Growth
 
-Yield Yak farms are designed to grow the deposit asset. All returns are provided in terms of the deposit asset \(LP tokens, usually\).
+Yield Yak farms are designed to grow the deposit asset. All returns are provided in terms of the deposit asset (LP tokens, usually).
 
 Due to impermanent loss and price volatility, deposit assets could grow while the USD value of underlying assets change. Learn more:
 
-{% page-ref page="risks/" %}
+{% content-ref url="risks/" %}
+[risks](risks/)
+{% endcontent-ref %}
 
 ## Tracking Returns
 
@@ -34,12 +36,12 @@ The best way to track deposits and growth is to compare your deposited tokens wi
 {% hint style="success" %}
 **Third-party Tracking Services**
 
-Services like [markr.io](https://markr.io/) provide additional tracking services for Yield Yak positions.
+Services like [markr.io](https://markr.io) provide additional tracking services for Yield Yak positions.
 {% endhint %}
 
 ### How can I see the underlying value of my LP tokens?
 
-Hover \(or tap\) the figure under &lt;My TVL&gt; to see the estimated underlying tokens.
+Hover (or tap) the figure under \<My TVL> to see the estimated underlying tokens.
 
 ## Timelock Protects Users
 
@@ -47,8 +49,6 @@ Yield Yak farms are protected by a timelock. Timelocks delay the team from makin
 
 The timelock address is: `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
 
-  
-
-
+\
 
 
