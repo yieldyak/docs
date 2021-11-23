@@ -1,11 +1,11 @@
-# Token Details
+# 🐃 Token Details
 
 ## YAK
 
 YAK is the native token to Yield Yak. YAK is a fixed-supply token that case be staked, with rewards paid from platform revenue.
 
 * 10,000 YAK will ever exist. No additional YAK may be minted now or in the future
-* Anyone can distribute platform revenue via [Yak ARC](https://yieldyak.com/arc)
+* Anyone can distribute platform revenue via [**Yak ARC**](https://yieldyak.com/arc)****
 
 {% content-ref url="using-yak.md" %}
 [using-yak.md](using-yak.md)
@@ -32,7 +32,7 @@ mYAK is pegged at a 1,000,000:1 ratio with YAK. The conversion rate is always av
 
 mYAK provides YAK with more liquidity while giving farmers an option to avoid impermanent loss associated with most LP staking options.
 
-* mYAK/\* pairs increase YAK liquidity and reduce slippage using dex aggregators like [YY Swap](htps://yieldyak.com/swap)
+* mYAK/\* pairs increase YAK liquidity and reduce slippage using dex aggregators like [**YY Swap**](htps://yieldyak.com/swap)****
 * mYAK/YAK avoids impermanent loss for risk-adverse stakers
 * mYAK gives users an option to avoid unit bias by having higher core amount of tokens in their wallet (100,000 mYAK = 0.1 YAK)
 
@@ -46,7 +46,7 @@ mYAK provides YAK with more liquidity while giving farmers an option to avoid im
 
 ## YAK Tokenomics
 
-### Circulating Supply
+### Initial Circulating Supply
 
 The vast majority of the YAK token supply entered circulation following the initial distribution. On the first day,
 
@@ -56,6 +56,10 @@ The vast majority of the YAK token supply entered circulation following the init
   * Ecosystem: 1,150 YAK
 
 Tokens will move from non-circulating to circulating based on team tokens vesting and ecosystem tokens being used for community initiatives.
+
+{% content-ref url="treasury.md" %}
+[treasury.md](treasury.md)
+{% endcontent-ref %}
 
 ### Initial Distribution
 
