@@ -2,7 +2,7 @@
 description: Yield Yak displays returns from actual and recent performance
 ---
 
-# Returns and Tracking
+# 📈 Returns and Tracking
 
 ## Returns Based on Actual and Recent Performance
 

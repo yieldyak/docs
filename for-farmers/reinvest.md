@@ -1,4 +1,4 @@
-# The Reinvest Button
+# 🔁 The Reinvest Button
 
 ## Do I need to press the reinvest button?
 

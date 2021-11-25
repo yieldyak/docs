@@ -1,8 +1,8 @@
 ---
-description: 'Search the best price, lower price slippage, execute with one click.'
+description: Search the best price, lower price slippage, execute with one click.
 ---
 
-# Why use YY Swap?
+# 👉 Why use YY Swap?
 
 ## Best Price Search
 
@@ -17,4 +17,3 @@ Price slippage could be viewed as a punishment of reducing the liquidity of to-t
 Sometimes, you may be exchanging two tokens that do not have liquidity on the same Dex simultaneously. For example, you want to trade from $YAK to $ELK. Liquidity pairs involving $YAK are on Pangolin, Trader Joe, Lydia, etc. However, these Dex’s have minimal $ELK liquidity. A direct swap from YAK to $ELK on these platforms would result in a huge loss. Most liquidity of $ELK are on ELK. A two-path swap from $YAK to $AVAX on Pangolin first and then from $AVAX to $ELK on ELK could avoid the huge loss.
 
 YY Swap detects all these possible multi-step execution routes for comparison. We offer you the best price available and you can execute it just by one click on YY Swap. The transaction would pass through the required smart contracts and finish the swap.
-

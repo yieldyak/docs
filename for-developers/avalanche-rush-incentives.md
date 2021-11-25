@@ -2,7 +2,7 @@
 description: $100,000 in developer incentives to build on YY Swap
 ---
 
-# Avalanche Rush Incentives
+# 🅰 Avalanche Rush Incentives
 
 ## About the Program
 

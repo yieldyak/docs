@@ -1,12 +1,12 @@
 ---
-description: 'Earn More Yield, Save Time, and Reduce Variance'
+description: Earn More Yield, Save Time, and Reduce Variance
 ---
 
-# Why use Yield Yak?
+# 👉 Why use Yield Yak?
 
 ## Save Time and Earn More Yield
 
-Many defi protocols pay rewards to users in the form of tokens \(farming rewards\). Farmers who claim rewards often and compound their deposits maximize their rewards and farming yield. However, most farmers do not reach an optimal level of returns for two reasons:
+Many defi protocols pay rewards to users in the form of tokens (farming rewards). Farmers who claim rewards often and compound their deposits maximize their rewards and farming yield. However, most farmers do not reach an optimal level of returns for two reasons:
 
 * **Prohibitive gas costs** to claim and compound farming rewards
 * **High time commitment** to frequently compound
@@ -22,6 +22,4 @@ Consider an example: A farmer stakes $50 of LP tokens into a farm. The farmer re
 During this period where the farmer is waiting for the rewards to be worth claiming and compounding, they are at risk of the reward asset price shifting.
 
 Farmers who use Yield Yak instead, will earn the average price for rewards over the period while enjoying compounding effects on their deposits.
-
-
 
