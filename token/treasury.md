@@ -16,32 +16,62 @@ The treasury is managed by committee with funds held in a separately controlled 
 
 ## Treasury Accounts
 
-### 🏦 Yak Treasury Multisig
+### 🏦 Yak Passive Treasury
 
-Holds long-term treasury funds.
+Holds long-term treasury funds, especially those which do not need active management.
 
 `0x047eDAC7e9ac7B22B941175Bf25adE95288286Ff`
 
-* [Explorer](https://snowtrace.io/address/0x047eDAC7e9ac7B22B941175Bf25adE95288286Ff/transactions), [DeBank](https://debank.com/profile/0x047edac7e9ac7b22b941175bf25ade95288286ff?chain=avax)
-* 3 of 5
-  * **Yak Man**, Team YY
-  * **Snow Yak**, Team YY
-  * **Mark**, Avalaunch
-  * **Sarp**, Markr
-  * **0xmurloc**, Trader Joe
+* [Explorer](https://snowtrace.io/address/0x047eDAC7e9ac7B22B941175Bf25adE95288286Ff/transactions), [DeBank](https://debank.com/profile/0x047edac7e9ac7b22b941175bf25ade95288286ff?chain=avax)****
+
+<details>
+
+<summary>3 of 5 Multisig</summary>
+
+* **Yak Man**, Core
+* **Snow Yak**, Core
+* **Mark**, Community (Avalaunch)
+* **Sarp**, Community (Markr)
+* **0xmuloc**, Community (Trader Joe)
+
+</details>
+
+### :chart\_with\_upwards\_trend: Yak Active Treasury
+
+Holds short-to-mid-term treasury funds, especially those which may need active management.&#x20;
+
+`0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb`
+
+* [Explorer](https://snowtrace.io/address/0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb/transactions), [DeBank](https://debank.com/profile/0x5925c5c6843a8f67f7ef2b55db1f5491573c85eb)****
+
+<details>
+
+<summary>2 of 4 Multisig</summary>
+
+* **Yak Man**, Core
+* **Snow Yak**, Core
+* **SlowCheetah**, Core
+* **Dylan**, Core
+
+</details>
 
 ### 💰 Yak Fee Collector
 
-Collects revenue in tokens. Holds very short-term treasury funds, especially those which may not have been distributed yet.
+Collects revenue in AVAX and tokens. Holds treasury funds which have not been distributed yet.
 
 `0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF`
 
 * [Explorer](https://snowtrace.io/address/0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF/transactions), [Marker](https://markr.io/#/wallet?address=0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF), [DeBank](https://debank.com/profile/0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF?chain=avax)
-* See also, [Yak ARC](yak-arc.md)
+
+Learn more about fee distribution:
+
+{% content-ref url="yak-arc.md" %}
+[yak-arc.md](yak-arc.md)
+{% endcontent-ref %}
 
 ### 🧑‍💻 Yak Deployer
 
-Holds shorter-term treasury funds, especially those which may be lower in value or need active management. Has special rights to receive and claim revenue on behalf of the platform.
+May temporarily hold treasury funds. Has special rights to claim revenue on behalf of the platform.
 
 `0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44`
 
@@ -61,9 +91,23 @@ Holds shorter-term treasury funds, especially those which may be lower in value 
 
 Holds contributors funds, used to support contributors of the Yield Yak ecosystem. Spent at the discretion of the team, similar in nature to a development budget.
 
-`0x73F2EE05E02c972a23222e60Bd08ED66dc89D7a5`
+`0xD221FB68f3B15308B4Ea1bD278b3057386330520`
 
-* [Explorer](https://snowtrace.io/address/0x73F2EE05E02c972a23222e60Bd08ED66dc89D7a5/transactions)
+* [Explorer](https://snowtrace.io/address/0xD221FB68f3B15308B4Ea1bD278b3057386330520)
+
+<details>
+
+<summary>3 of 5 Multisig</summary>
+
+* **Yak Man**, Core
+* **Snow Yak**, Core
+* **SlowCheetah**, Core
+* **Dylan**, Core
+* **50ft**, Core
+
+</details>
+
+Previous address: `0x73F2EE05E02c972a23222e60Bd08ED66dc89D7a5`
 
 ### 🌱 YY Ecosystem
 
