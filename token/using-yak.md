@@ -38,6 +38,6 @@ You can earn stacked yield by staking an auto-compounding LP position. In this w
 
 ## YAK as Collateral
 
-YAK is accepted as collateral on [**Marginswap**](https://marginswap.exchange/margin-account).
+YAK is accepted as collateral on [**Marginswap**](https://marginswap.exchange/margin-account) and [**Moremoney**](https://app.moremoney.finance).
 
 * Deposit YAK in order to borrow other assets.
