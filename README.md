@@ -45,7 +45,7 @@ For help getting started, please see this guide from Ava Labs:
 
 ## Can I lose money?
 
-Yes. Use Yield Yak at your own risk with money you can afford to use. Do you own research.
+Yes. Use Yield Yak at your own risk with money you can afford to use. Do your own research.
 
 Yield Yak smart contracts are unaudited. Yield Yak relies on smart contracts from other platforms which may also be unaudited. Any funds lost by other platforms will affect Yield Yak users.
 
