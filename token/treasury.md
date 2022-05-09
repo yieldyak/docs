@@ -16,13 +16,28 @@ The treasury is managed by committee with funds held in a separately controlled 
 
 ## Treasury Accounts
 
-### 🏦 Yak Passive Treasury
+### :chart\_with\_upwards\_trend: Yak Treasury
 
-Holds long-term treasury funds, especially those which do not need active management.
+Holds treasury funds.&#x20;
 
-`0x047eDAC7e9ac7B22B941175Bf25adE95288286Ff`
+`0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb`
 
-* [Explorer](https://snowtrace.io/address/0x047eDAC7e9ac7B22B941175Bf25adE95288286Ff/transactions), [DeBank](https://debank.com/profile/0x047edac7e9ac7b22b941175bf25ade95288286ff?chain=avax)****
+* [Explorer](https://snowtrace.io/address/0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb/transactions), [DeBank](https://debank.com/profile/0x5925c5c6843a8f67f7ef2b55db1f5491573c85eb)****
+
+<details>
+
+<summary>3 of 6 Multisig</summary>
+
+* **Yak Man**, Core
+* **Snow Yak**, Core
+* **SlowCheetah**, Core
+* **Dylan**, Core
+* **Eric**, Treasury
+* **Mauro**, Treasury
+
+</details>
+
+Previous: `0x047eDAC7e9ac7B22B941175Bf25adE95288286Ff`
 
 <details>
 
@@ -33,25 +48,6 @@ Holds long-term treasury funds, especially those which do not need active manage
 * **Mark**, Community (Avalaunch)
 * **Sarp**, Community (Markr)
 * **0xmuloc**, Community (Trader Joe)
-
-</details>
-
-### :chart\_with\_upwards\_trend: Yak Active Treasury
-
-Holds short-to-mid-term treasury funds, especially those which may need active management.&#x20;
-
-`0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb`
-
-* [Explorer](https://snowtrace.io/address/0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb/transactions), [DeBank](https://debank.com/profile/0x5925c5c6843a8f67f7ef2b55db1f5491573c85eb)****
-
-<details>
-
-<summary>2 of 4 Multisig</summary>
-
-* **Yak Man**, Core
-* **Snow Yak**, Core
-* **SlowCheetah**, Core
-* **Dylan**, Core
 
 </details>
 
