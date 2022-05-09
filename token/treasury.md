@@ -93,8 +93,6 @@ Holds contributors funds, used to support contributors of the Yield Yak ecosyste
 
 `0xD221FB68f3B15308B4Ea1bD278b3057386330520`
 
-* [Explorer](https://snowtrace.io/address/0xD221FB68f3B15308B4Ea1bD278b3057386330520)
-
 <details>
 
 <summary>3 of 5 Multisig</summary>
@@ -113,9 +111,23 @@ Previous address: `0x73F2EE05E02c972a23222e60Bd08ED66dc89D7a5`
 
 Holds ecosystem funds, used to support initiatives in Avalanche DeFi and Yield Yak ecosystems. Spent at the discretion of the team, similar in nature to a marketing budget.
 
-`0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e`
+`0x78cc64Cc16e38d2BFA42F312333Cd93aebB22b02`
 
-* [Explorer](https://cchain.explorer.avax.network/address/0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e/transactions), [Markr](https://markr.io/#/wallet?address=0x383be9aed6d91af96e4c02dc6301cb0adae7422e), [DeBank](https://debank.com/profile/0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e?chain=avax)
+<details>
+
+<summary>3 of 5 Multisig</summary>
+
+
+
+* **Yak Man**, Core
+* **Snow Yak**, Core
+* **SlowCheetah**, Core
+* **Dylan**, Core
+* **50ft**, Core
+
+</details>
+
+Previous address: `0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e`
 
 ### 🐃 YY Team
 
