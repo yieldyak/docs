@@ -2,7 +2,7 @@
 
 * [👋 Welcome](README.md)
 
-## For Yield Farmers <a href="for-farmers" id="for-farmers"></a>
+## For Yield Farmers <a href="#for-farmers" id="for-farmers"></a>
 
 * [👉 Why use Yield Yak?](for-farmers/pool.md)
 * [📈 Returns and Tracking](for-farmers/returns.md)
@@ -16,12 +16,12 @@
   * [Emergency Withdrawal](for-farmers/support/emergency-withdrawal.md)
 * [YY Farms](https://yieldyak.com/farms)
 
-## For Dex Traders <a href="for-traders" id="for-traders"></a>
+## For Dex Traders <a href="#for-traders" id="for-traders"></a>
 
 * [👉 Why use YY Swap?](for-traders/swap.md)
 * [YY Swap](https://yieldyak.com/swap)
 
-## For Yak Holders <a href="token" id="token"></a>
+## For Yak Holders <a href="#token" id="token"></a>
 
 * [🐃 Token Details](token/details.md)
 * [🪙 Using YAK](token/using-yak.md)
@@ -39,8 +39,8 @@
 
 ## More Info
 
-* [Website](https://yieldyak.com)
+* [Website](https://yieldyak.com/)
 * [Twitter](https://twitter.com/yieldyak\_)
 * [Telegram](https://t.me/yieldyak)
-* [Medium](https://yieldyak.medium.com)
+* [Medium](https://yieldyak.medium.com/)
 * [Discord](https://discord.gg/Dsdd2nMFud)
