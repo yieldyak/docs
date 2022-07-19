@@ -36,7 +36,7 @@ The best way to track deposits and growth is to compare your deposited tokens wi
 {% hint style="success" %}
 **Third-party Tracking Services**
 
-Services like [markr.io](https://markr.io/) provide additional tracking services for Yield Yak positions.
+Services like [markr.io](https://markr.io) provide additional tracking services for Yield Yak positions.
 {% endhint %}
 
 ### How can I see the underlying value of my LP tokens?

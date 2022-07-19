@@ -1,6 +1,6 @@
 # Stuck Transactions
 
-Occasionally transactions within browser wallets like [Metamask](https://metamask.io/), can become stuck. The status on the transaction will show as 'pending', however, it seems that the transaction is not going to go through. Subsequent transactions will be queued in the wallet until the original 'pending' transaction either goes through or is cleared.
+Occasionally transactions within browser wallets like [Metamask](https://metamask.io), can become stuck. The status on the transaction will show as 'pending', however, it seems that the transaction is not going to go through. Subsequent transactions will be queued in the wallet until the original 'pending' transaction either goes through or is cleared.
 
 There are a number of reasons why transactions may become stuck, things like gas fee spikes and particularly when using a hardware wallet can cause pending transactions to stall.
 
