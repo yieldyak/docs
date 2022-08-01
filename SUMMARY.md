@@ -18,8 +18,8 @@
 
 ## For Dex Traders <a href="#for-traders" id="for-traders"></a>
 
-* [👉 Why use YY Swap?](for-traders/swap.md)
-* [YY Swap](https://yieldyak.com/swap)
+* [👉 Why use Yak Swap?](for-traders/swap.md)
+* [Yak Swap](https://yieldyak.com/swap)
 
 ## For Yak Holders <a href="#token" id="token"></a>
 
