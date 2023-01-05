@@ -2,9 +2,9 @@
 
 ## YAK
 
-YAK is the native token to Yield Yak. YAK is a fixed-supply token that case be staked, with rewards paid from platform revenue.
+YAK is the native token to Yield Yak. YAK is a fixed-supply token that can be staked to earn platform fees (currently 70% of all platform fees are distributed to YAK holders every 24 hours).&#x20;
 
-* 10,000 YAK will ever exist. No additional YAK may be minted now or in the future
+* Only 10,000 YAK can ever exist. No additional YAK may be minted now or in the future
 * Anyone can distribute platform revenue via [**Yak ARC**](https://yieldyak.com/arc)****
 
 {% content-ref url="using-yak.md" %}

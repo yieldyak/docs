@@ -6,7 +6,7 @@ description: Earn More Yield, Save Time, and Reduce Variance
 
 ## Save Time and Earn More Yield
 
-Many defi protocols pay rewards to users in the form of tokens (farming rewards). Farmers who claim rewards often and compound their deposits maximize their rewards and farming yield. However, most farmers do not reach an optimal level of returns for two reasons:
+Many DeFi protocols pay rewards to users in the form of tokens (farming rewards). Farmers who claim rewards often and compound their deposits maximise their rewards and farming yield. However, most farmers do not reach an optimal level of returns for two reasons:
 
 * **Prohibitive gas costs** to claim and compound farming rewards
 * **High time commitment** to frequently compound

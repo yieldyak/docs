@@ -57,7 +57,7 @@ Collects revenue in AVAX and tokens. Holds treasury funds which have not been di
 
 `0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF`
 
-* [Explorer](https://snowtrace.io/address/0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF/transactions), [Marker](https://markr.io/#/wallet?address=0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF), [DeBank](https://debank.com/profile/0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF?chain=avax)
+* [Explorer](https://snowtrace.io/address/0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF/transactions), [DeBank](https://debank.com/profile/0x2D580F9CF2fB2D09BC411532988F2aFdA4E7BefF?chain=avax)
 
 Learn more about fee distribution:
 
@@ -71,7 +71,7 @@ May temporarily hold treasury funds. Has special rights to claim revenue on beha
 
 `0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44`
 
-* [Explorer](https://snowtrace.io/address/0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44/transactions), [Markr](https://markr.io/#/wallet?address=0xdcedf06fd33e1d7b6eb4b309f779a0e9d3172e44), [DeBank](https://debank.com/profile/0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44?chain=avax)
+* [Explorer](https://snowtrace.io/address/0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44/transactions), [DeBank](https://debank.com/profile/0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44?chain=avax)
 
 ### ⏳ Yak Timelock
 
@@ -79,7 +79,7 @@ May temporarily hold treasury funds. Has special rights to claim revenue on beha
 
 `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
 
-* [Explorer](https://snowtrace.io/address/0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7/transactions), [Markr](https://markr.io/#/wallet?address=0x8d36c5c6947adccd25ef49ea1aac2ceacfff0bd7), [DeBank](https://debank.com/profile/0x8d36c5c6947adccd25ef49ea1aac2ceacfff0bd7?chain=avax)
+* [Explorer](https://snowtrace.io/address/0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7/transactions),  [DeBank](https://debank.com/profile/0x8d36c5c6947adccd25ef49ea1aac2ceacfff0bd7?chain=avax)
 
 ## Other Accounts
 

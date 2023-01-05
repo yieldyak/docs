@@ -26,6 +26,7 @@ Single-sided stakers earn YAK rewards by depositing YAK tokens.
 
 ## YAK as Collateral
 
-YAK is accepted as collateral on [**Marginswap**](https://marginswap.exchange/margin-account) and [**Moremoney**](https://app.moremoney.finance/).
+YAK may be accepted as Collateral on other platforms.&#x20;
 
 * Deposit YAK in order to borrow other assets.
+

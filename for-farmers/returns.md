@@ -11,7 +11,11 @@ Yield Yak calculates returns using actual and recent performance.
 * Simple APY is based on recent performance, which is annualized without compounding.
 * Compound APY considers that your farming assets grow and compound and displays the simple daily ROI compounded over a year.
 
-Returns are variable and depend on many factors.
+Returns are variable and depend on many factors. &#x20;
+
+#### 👉 [Find out More about how Yield Yak calculates returns](returns.md#find-out-more-about-how-yield-yak-calculates-returns)
+
+
 
 {% hint style="info" %}
 **Comparing Returns**
@@ -36,7 +40,7 @@ The best way to track deposits and growth is to compare your deposited tokens wi
 {% hint style="success" %}
 **Third-party Tracking Services**
 
-Services like [markr.io](https://markr.io) provide additional tracking services for Yield Yak positions.
+Services like [debank.com](https://debank.com) provide additional tracking services for Yield Yak positions.
 {% endhint %}
 
 ### How can I see the underlying value of my LP tokens?

@@ -14,9 +14,9 @@
 * [🚁 Support](for-farmers/support/README.md)
   * [Stuck Transactions](for-farmers/support/stuck-transactions.md)
   * [Emergency Withdrawal](for-farmers/support/emergency-withdrawal.md)
-* [YY Farms](https://yieldyak.com/farms)
+* [Farms](https://yieldyak.com/farms)
 
-## For Dex Traders <a href="#for-traders" id="for-traders"></a>
+## For Traders
 
 * [👉 Why use Yak Swap?](for-traders/swap.md)
 * [Yak Swap](https://yieldyak.com/swap)
@@ -26,8 +26,15 @@
 * [🐃 Token Details](token/details.md)
 * [🪙 Using YAK](token/using-yak.md)
 * [🏧 Yak ARC](token/yak-arc.md)
+* [🗳 Voting](token/voting.md)
 * [💰 Treasury](token/treasury.md)
-* [YY Stake](https://yieldyak.com/stake)
+* [Stake](https://yieldyak.com/stake)
+
+## FOR yyAVAX HOLDERS
+
+* [🚰 LIQUID STAKING](for-yyavax-holders/liquid-staking.md)
+* [🌾 Using yyAVAX](for-yyavax-holders/using-yyavax.md)
+* [Liquid Stake](https://yieldyak.com/liquid-staking)
 
 ## For Developers
 

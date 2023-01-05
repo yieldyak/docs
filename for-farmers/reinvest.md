@@ -53,11 +53,12 @@ If you encounter a transaction failure after pressing the reinvest button, this 
 
 Fees are collected each time a farm is compounded, from the reward tokens.
 
-Fees are usually between 5-10% of the reward tokens. Fees are variable and change with network conditions to optimize rewards. There are three categories of fees:
+Fees are usually between 5-10% of the reward tokens. Fees are variable and change with network conditions to optimize rewards. There are two categories of fees:
 
 1. **Reinvest Reward** - paid to reinvestor who presses the button
-2. **Admin fee **- paid to network
-3. **Developer fee** - paid to developer who wrote the strategy
+2. **Admin fee** - collected by Yield Yak and automatically redistributed to YAK Holders, its treasury, and contributors.
+
+****
 
 Yield Yak enforces no deposit or withdraw fees (although the underlying farms may).
 
