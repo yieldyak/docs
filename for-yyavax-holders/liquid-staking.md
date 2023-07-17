@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Liquid Staking_Medium_1400x935px.jpg
+coverY: -66
+---
+
 # 🚰 LIQUID STAKING
 
 ## What is Liquid Staking?
@@ -12,6 +17,6 @@ Liquid Staking solves this, as it allows users to stake AVAX and receive a new t
 
 Geode is responsible for the yyAVAX smart contracts, which ensure the correct value of yyAVAX based on rewards earned on the P-Chain. To read more about Geode you can view their documentation here.
 
-Eden will operate the back-end infrastructure to optimize yield generation for yyAVAX holders. This will include working to support Avalanche subnets as a validator. You can find out more about Eden **** [**here.**](http://edennetwork.io)\
-To learn more about the differences between the Avalanche C-Chain and P-Chain, click **** [**here**](https://medium.com/@defidecrypted/whats-the-difference-between-the-avalanche-c-chain-x-chain-and-p-chain-9af28f6524d8)**.**
+Eden will operate the back-end infrastructure to optimize yield generation for yyAVAX holders. This will include working to support Avalanche subnets as a validator. You can find out more about Eden [**here.**](http://edennetwork.io)\
+To learn more about the differences between the Avalanche C-Chain and P-Chain, click [**here**](https://medium.com/@defidecrypted/whats-the-difference-between-the-avalanche-c-chain-x-chain-and-p-chain-9af28f6524d8)**.**
 

@@ -1,5 +1,7 @@
 ---
 description: Earn More Yield, Save Time, and Reduce Variance
+cover: ../.gitbook/assets/Yak EXTREME.png
+coverY: 210
 ---
 
 # 👉 Why use Yield Yak?
@@ -17,7 +19,7 @@ Yield Yak helps all farmers earn more yield by pooling assets and socializing th
 
 Popular Yield Yak farms compound every few minutes or hours. Reward tokens are converted into deposit tokens on behalf of all users in the pool many times per day, providing users with a blended price exposure to reward assets.
 
-Consider an example: A farmer stakes $50 of LP tokens into a farm. The farmer receives rewards worth 0.05 AVAX per day. That means, on average, the farmer only generates enough value from claimed rewards to pay the gas costs by waiting for days or weeks.
+Consider an example: A farmer stakes $50 of LP tokens into a farm. The farmer receives rewards worth 0.05 USDC per day. That means, on average, the farmer only generates enough value from claimed rewards to pay the gas costs by waiting for days or weeks.
 
 During this period where the farmer is waiting for the rewards to be worth claiming and compounding, they are at risk of the reward asset price shifting.
 

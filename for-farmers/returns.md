@@ -1,5 +1,7 @@
 ---
 description: Yield Yak displays returns from actual and recent performance
+cover: ../.gitbook/assets/APY calculations.webp
+coverY: 0
 ---
 
 # 📈 Returns and Tracking

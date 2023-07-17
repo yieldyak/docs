@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/one yak to rule them all copy.jpeg
+coverY: 0
+---
+
 # 🐃 Token Details
 
 ## YAK
@@ -5,7 +10,7 @@
 YAK is the native token to Yield Yak. YAK is a fixed-supply token that can be staked to earn platform fees (currently 70% of all platform fees are distributed to YAK holders every 24 hours).&#x20;
 
 * Only 10,000 YAK can ever exist. No additional YAK may be minted now or in the future
-* Anyone can distribute platform revenue via [**Yak ARC**](https://yieldyak.com/arc)****
+* Anyone can distribute platform revenue via [**Yak ARC**](https://yieldyak.com/arc)
 
 {% content-ref url="using-yak.md" %}
 [using-yak.md](using-yak.md)
@@ -32,7 +37,7 @@ mYAK is pegged at a 1,000,000:1 ratio with YAK. The conversion rate is always av
 
 mYAK provides YAK with more liquidity while giving farmers an option to avoid impermanent loss associated with most LP staking options.
 
-* mYAK/\* pairs increase YAK liquidity and reduce slippage using dex aggregators like [**YY Swap**](htps://yieldyak.com/swap)****
+* mYAK/\* pairs increase YAK liquidity and reduce slippage using dex aggregators like [**YY Swap**](htps://yieldyak.com/swap)
 * mYAK/YAK avoids impermanent loss for risk-adverse stakers
 * mYAK gives users an option to avoid unit bias by having higher core amount of tokens in their wallet (100,000 mYAK = 0.1 YAK)
 

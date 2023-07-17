@@ -2,6 +2,8 @@
 description: >-
   Get the best price leveraging multi-step routes, low price slippage, and
   execute with one click.
+cover: ../.gitbook/assets/YY Swap Logo_V7 (1).png
+coverY: 20
 ---
 
 # 👉 Why use Yak Swap?

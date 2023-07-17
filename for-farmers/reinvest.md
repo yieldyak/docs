@@ -58,7 +58,7 @@ Fees are usually between 5-10% of the reward tokens. Fees are variable and chang
 1. **Reinvest Reward** - paid to reinvestor who presses the button
 2. **Admin fee** - collected by Yield Yak and automatically redistributed to YAK Holders, its treasury, and contributors.
 
-****
+
 
 Yield Yak enforces no deposit or withdraw fees (although the underlying farms may).
 

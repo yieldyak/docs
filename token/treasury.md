@@ -6,13 +6,13 @@ description: The YY approach to treasury and listing of related accounts
 
 ## Opinionated Treasury
 
-The Opinionated Treasury takes a generally bullish stance on the Avalanche DeFi (which YY depends on) while also contributing TVL and fees to the platform and ecosystem.
+The Opinionated Treasury takes a generally bullish stance on DeFi (which YY depends on) while also contributing TVL and fees to the platform and ecosystem.
 
 {% embed url="https://yieldyak.medium.com/the-opinionated-treasury-9c91574dc93f" %}
 The Opinionated Treasury
 {% endembed %}
 
-The treasury is managed by committee with funds held in a separately controlled multisig and other contracts and accounts.
+The treasury is managed by committee with funds held in a separately controlled multi-sig and other contracts and accounts.
 
 ## Treasury Accounts
 
@@ -22,18 +22,18 @@ Holds treasury funds.&#x20;
 
 `0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb`
 
-* [Explorer](https://snowtrace.io/address/0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb/transactions), [DeBank](https://debank.com/profile/0x5925c5c6843a8f67f7ef2b55db1f5491573c85eb)****
+* [Explorer](https://snowtrace.io/address/0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb/transactions), [DeBank](https://debank.com/profile/0x5925c5c6843a8f67f7ef2b55db1f5491573c85eb)
 
 <details>
 
 <summary>3 of 6 Multisig</summary>
 
 * **Yak Man**, Core
-* **Snow Yak**, Core
-* **SlowCheetah**, Core
-* **Dylan**, Core
-* **Eric**, Treasury
-* **Mauro**, Treasury
+* **Yak Warrior**, Core
+* **Ravageur77**, Core
+* **Eric Sulli**, Treasury
+* **MauroG**, Treasury
+* **harry.avax**, Treasury
 
 </details>
 
@@ -94,10 +94,10 @@ Holds contributors funds, used to support contributors of the Yield Yak ecosyste
 <summary>3 of 5 Multisig</summary>
 
 * **Yak Man**, Core
-* **Snow Yak**, Core
-* **SlowCheetah**, Core
-* **Dylan**, Core
-* **50ft**, Core
+* **Yak Warrior**, Core
+* **Ravageur77**, Core
+* **Angus**, Core
+* **Simon,** Core
 
 </details>
 

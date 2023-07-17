@@ -1,5 +1,7 @@
 ---
-description: Earn more yield. Tools for defi users on Avalanche.
+description: Earn more yield. Tools for DeFi users on Avalanche and Arbitrum.
+cover: .gitbook/assets/twitter banner.jpeg
+coverY: 0
 ---
 
 # 👋 Welcome
@@ -16,7 +18,7 @@ Yak Swap provides one-click trade execution with multi-step routes and low slipp
 
 ### Liquid Staking Provider
 
-yyAVAX lets you earn native yields for securing the Avalanche Network without sacrificing DeFi utility.&#x20;
+yyAVAX lets you earn native yield for securing the Avalanche Network without sacrificing DeFi utility.&#x20;
 
 ### Yield Booster
 
@@ -35,7 +37,7 @@ Yield Yak is largely self-sustaining. Our community compounds rewards, suggests 
 Yield Yak auto-compounds yield farm rewards.
 
 * Each farm is a pool of deposits from Yield Yak users
-* Farms earn reward tokens (like $AVAX)
+* Farms earn reward tokens
 * Farms reinvest all rewards, compounding everyone's deposits
 
 All depositors benefit from the high frequency of Yield Yak compounding. Learn more:
@@ -48,8 +50,8 @@ All depositors benefit from the high frequency of Yield Yak compounding. Learn m
 
 Before you start using Yield Yak, you will need:
 
-1. A Web3 Wallet such as MetaMask.&#x20;
-2. AVAX on the Avalanche C-Chain in your wallet.&#x20;
+1. A Web3 Wallet such as[ Rabby](https://rabby.io/).&#x20;
+2. &#x20;ETH on Arbitrum One or AVAX on the Avalanche C-Chain in your wallet&#x20;
 
 For help getting started, please see this guide from Ava Labs:
 
