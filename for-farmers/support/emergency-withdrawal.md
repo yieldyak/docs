@@ -1,4 +1,8 @@
-# Emergency Withdrawal
+---
+description: How to withdraw from Yield Yak Pools directly
+---
+
+# Manual Withdrawal
 
 In the event that you are unable to interact with http://yieldyak.com UI for whatever reason, you may need to conduct a withdrawal from the contract. Below, you will find a helpful guide on how to interact with Yield Yak farms and contracts directly from the explorer.
 

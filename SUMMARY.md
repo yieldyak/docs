@@ -13,7 +13,7 @@
   * [Underlying Assets](for-farmers/risks/underlying.md)
 * [🚁 Support](for-farmers/support/README.md)
   * [Stuck Transactions](for-farmers/support/stuck-transactions.md)
-  * [Emergency Withdrawal](for-farmers/support/emergency-withdrawal.md)
+  * [Manual Withdrawal](for-farmers/support/emergency-withdrawal.md)
 * [Farms](https://yieldyak.com/farms)
 
 ## For Traders
