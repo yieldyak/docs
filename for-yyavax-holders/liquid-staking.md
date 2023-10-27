@@ -1,9 +1,10 @@
 ---
+description: Earn native yield from validating the Avalanche network with yyAVAX
 cover: ../.gitbook/assets/Liquid Staking_Medium_1400x935px.jpg
 coverY: -66
 ---
 
-# 🚰 LIQUID STAKING
+# 🚰 Liquid Staking
 
 ## What is Liquid Staking?
 

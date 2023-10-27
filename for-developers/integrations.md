@@ -1,4 +1,4 @@
-# Integrations
+# 👨💻 Integrations
 
 ## Background
 
@@ -10,22 +10,22 @@ Compounding BAG: [https://cchain.explorer.avax.network/address/0xf487044eD85F2d4
 
 ### User Balances
 
-User balances are accounted with Yak Receipt Tokens \(YRT\). The number of shares corresponds to ownership of each pool's underlying assets.
+User balances are accounted with Yak Receipt Tokens (YRT). The number of shares corresponds to ownership of each pool's underlying assets.
 
 `User balance of BAG = YRT shares * (total BAG / total shares)`
 
-| View Function | **Description** |
-| :--- | :--- |
-| `balanceOf(address)` | Amount of shares a user owns \(number does not go up\) |
-| `getDepositTokensForShares(uint256)` | Conversion rate for a given amount of shares \(number goes up over time\) |
+| View Function                        | **Description**                                                         |
+| ------------------------------------ | ----------------------------------------------------------------------- |
+| `balanceOf(address)`                 | Amount of shares a user owns (number does not go up)                    |
+| `getDepositTokensForShares(uint256)` | Conversion rate for a given amount of shares (number goes up over time) |
 
 ### User Actions
 
 Each strategy allows users to deposit and withdraw. The simplest implementation may use only two functions:
 
-| Write Function | Description |
-| :--- | :--- |
-| `deposit(uint256)` | Deposit deposit tokens |
+| Write Function      | Description                              |
+| ------------------- | ---------------------------------------- |
+| `deposit(uint256)`  | Deposit deposit tokens                   |
 | `withdraw(uint256)` | Redeem shares to withdraw deposit tokens |
 
 {% hint style="info" %}
@@ -37,7 +37,7 @@ There is no need for integrations to manage `reinvest()` functionality, as the Y
 ### Asset Management
 
 * [Baguette Finance](https://app.baguette.exchange/#/mill)
-* [Avme Wallet](https://twitter.com/AVME_IO/status/1404453576978673671?s=20)
+* [Avme Wallet](https://twitter.com/AVME\_IO/status/1404453576978673671?s=20)
 
 ### Asset Trackers
 
@@ -45,4 +45,3 @@ There is no need for integrations to manage `reinvest()` functionality, as the Y
 * [Zapper](https://zapper.fi/)
 * [DeBank](https://debank.com/)
 * [0xTracker](https://0xtracker.app/)
-

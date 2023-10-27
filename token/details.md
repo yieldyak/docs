@@ -23,31 +23,7 @@ YAK is the native token to Yield Yak. YAK is a fixed-supply token that can be st
 * Decimals: `18`&#x20;
 * Address: `0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7`&#x20;
 
-## Mini Yak
 
-Mini YAK (mYAK) is a wrapped version of YAK. Mini Yak introduces no changes to the YAK supply or tokenomics. Read more about Mini YAK:
-
-{% embed url="https://yieldyak.medium.com/mini-yak-a022c2e607d7" %}
-
-### Conversion Rate
-
-mYAK is pegged at a 1,000,000:1 ratio with YAK. The conversion rate is always available in a smart contract for both direction, although you may find better rates with [YY Swap](https://yieldyak.com/swap).
-
-### Key Benefits
-
-mYAK provides YAK with more liquidity while giving farmers an option to avoid impermanent loss associated with most LP staking options.
-
-* mYAK/\* pairs increase YAK liquidity and reduce slippage using dex aggregators like [**YY Swap**](htps://yieldyak.com/swap)
-* mYAK/YAK avoids impermanent loss for risk-adverse stakers
-* mYAK gives users an option to avoid unit bias by having higher core amount of tokens in their wallet (100,000 mYAK = 0.1 YAK)
-
-### Token Details
-
-* Name: `Mini YAK`
-* Symbol: `mYAK`
-* Decimals: `12`
-* Address: `0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604`
-* Total Supply: `10,000,000,000` (maximum)
 
 ## YAK Tokenomics
 
@@ -83,4 +59,30 @@ The full list of airdrop recipients is available [here](https://github.com/yield
 ### Unclaimed Airdrop Tokens
 
 Airdrop recipients were provided a 30-day window to claim tokens. Following the deadline, the remaining tokens were returned to the treasury.
+
+## Mini Yak
+
+Mini YAK (mYAK) is a wrapped version of YAK. Mini Yak introduces no changes to the YAK supply or tokenomics. Read more about Mini YAK:
+
+{% embed url="https://yieldyak.medium.com/mini-yak-a022c2e607d7" %}
+
+### Conversion Rate
+
+mYAK is pegged at a 1,000,000:1 ratio with YAK. The conversion rate is always available in a smart contract for both direction, although you may find better rates with [YY Swap](https://yieldyak.com/swap).
+
+### Key Benefits
+
+mYAK provides YAK with more liquidity while giving farmers an option to avoid impermanent loss associated with most LP staking options.
+
+* mYAK/\* pairs increase YAK liquidity and reduce slippage using dex aggregators like [**YY Swap**](htps://yieldyak.com/swap)
+* mYAK/YAK avoids impermanent loss for risk-adverse stakers
+* mYAK gives users an option to avoid unit bias by having higher core amount of tokens in their wallet (100,000 mYAK = 0.1 YAK)
+
+### Token Details
+
+* Name: `Mini YAK`
+* Symbol: `mYAK`
+* Decimals: `12`
+* Address: `0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604`
+* Total Supply: `10,000,000,000` (maximum)
 

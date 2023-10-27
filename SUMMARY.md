@@ -13,7 +13,7 @@
   * [Underlying Assets](for-farmers/risks/underlying.md)
 * [🚁 Support](for-farmers/support/README.md)
   * [Stuck Transactions](for-farmers/support/stuck-transactions.md)
-  * [Manual Withdrawal](for-farmers/support/emergency-withdrawal.md)
+  * [Manual Withdrawal](for-farmers/support/manual-withdrawal.md)
 * [Farms](https://yieldyak.com/farms)
 
 ## For Traders
@@ -32,7 +32,7 @@
 
 ## FOR yyAVAX HOLDERS
 
-* [🚰 LIQUID STAKING](for-yyavax-holders/liquid-staking.md)
+* [🚰 Liquid Staking](for-yyavax-holders/liquid-staking.md)
 * [🌾 Using yyAVAX](for-yyavax-holders/using-yyavax.md)
 * [Liquid Stake](https://yieldyak.com/liquid-staking)
 
