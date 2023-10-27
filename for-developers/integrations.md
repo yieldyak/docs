@@ -2,7 +2,7 @@
 
 ## Background
 
-Autocompounders give small token holders the same compounding advantages as big token holders. Autocompounders are more effective when they hold more deposits. For this reason, YY Strategies are designed to be primitives that any project can easily integrate.
+Auto-compounders give small token holders the same compounding advantages as big token holders. Auto-compounders are more effective when they hold more deposits. For this reason, YY Strategies are designed to be primitives that any project can easily integrate.
 
 ## Example Integration
 
@@ -45,3 +45,12 @@ There is no need for integrations to manage `reinvest()` functionality, as the Y
 * [Zapper](https://zapper.fi/)
 * [DeBank](https://debank.com/)
 * [0xTracker](https://0xtracker.app/)
+
+### Contributors Email Inbox
+
+Used for official listings and admin: yakcontributors@proton.me
+
+For dev-related inquiries, visit the Yak Devs Telegram group: [https://t.me/yakdevs](https://t.me/yakdevs)
+
+
+

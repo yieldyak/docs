@@ -8,13 +8,15 @@ description: Yield Yak allows anyone to distribute platform revenues
 
 Yield Yak fees are collected by the [**Yak Fee Collector**](treasury.md#yak-fee-collector), a special treasury wallet which allows anyone to see the platform earnings in one place and distribute them according to the network configurations.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-06 at 14.40.42.png" alt=""><figcaption><p>YAK ARC distributed YIeld Yak's Platform Fees via a transparent and decentralised mechanism.</p></figcaption></figure>
+
 ## Fee Distribution
 
 Fees in the Yak Fee Collector contract can be distributed by anyone using [**Yak ARC**](https://yieldyak.com/arc). Yak ARC automatically converts and distributes fees to designated payees.
 
 #### Payee Settings
 
-* `MasterYak`: 70%
+* `Yak Stakers`: 70%
 * `Treasury`: 15%
 * `Contributors`: 15%
 

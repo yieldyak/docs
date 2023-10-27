@@ -1,6 +1,20 @@
 ---
 cover: ../.gitbook/assets/one yak to rule them all copy.jpeg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🐃 Token Details
@@ -22,8 +36,6 @@ YAK is the native token to Yield Yak. YAK is a fixed-supply token that can be st
 * Symbol: `YAK`&#x20;
 * Decimals: `18`&#x20;
 * Address: `0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7`&#x20;
-
-
 
 ## YAK Tokenomics
 

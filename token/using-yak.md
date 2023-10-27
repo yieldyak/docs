@@ -1,5 +1,5 @@
 ---
-description: Stake, farm and use YAK as collateral
+description: Stake or farm your YAK
 ---
 
 # 🪙 Using YAK
@@ -10,23 +10,19 @@ There are many ways to use YAK. This article covers some of the best options for
 
 ### Earn AVAX
 
-Single-sided stakers earn AVAX rewards by depositing YAK tokens.
+Single-sided stakers earn AVAX and ETH ewards by depositing YAK tokens.
 
 1. Go to [**YY Stake**](https://yieldyak.com/stake) and locate the YAK staking pool
-2. Deposit YAK -> Earn AVAX
+2. Deposit YAK -> Earn AVAX/ETH
 
-![$YAK Single Sided Staking](<../.gitbook/assets/YAK SSS Pool.png>)
+![$YAK Single Sided Staking](<../.gitbook/assets/Screenshot 2023-10-06 at 14.38.23.png>)
 
 ### Compound YAK
 
 Single-sided stakers earn YAK rewards by depositing YAK tokens.
 
-1. Go to [**YY Farms**](https://yieldyak.com/farms?platform=yak) and locate the YAK farm
+1. Go to  [**YY Stake**](https://yieldyak.com/stake)  and locate the YAK farm
 2. Deposit YAK -> Earn YAK
 
-## YAK as Collateral
-
-YAK may be accepted as Collateral on other platforms.&#x20;
-
-* Deposit YAK in order to borrow other assets.
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-06 at 14.37.21.png" alt="" width="563"><figcaption></figcaption></figure>
 

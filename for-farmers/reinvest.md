@@ -8,31 +8,31 @@ No. Someone else will press it for you to earn the reward.
 
 The reinvest button takes all pending rewards from a pool, converts them into the farm asset, and reinvests them back into the pool to compound deposits for everyone in the farm.
 
-There is a variable reward to incentivize users to press that button. Whoever is first to press the button, earns the reward and compounds everyone's deposits.
+There is a variable reward to incentivise users to press that button. Whoever is first to press the button, earns the reward and compounds everyone's deposits.
 
 ## When should I press it?
 
 The reinvest button is optional. You do not need to press it. However, you might be motivated to press it to earn the reward.
 
-If your goal is to net gain in AVAX, then you need to consider the reward token / AVAX price ratio, transaction cost for reinvesting for that particular pool, the transaction cost for swapping the reward token into AVAX, etc.
+If your goal is to net gain in AVAX or ETH, then you need to consider the reward token / AVAX price ratio, transaction cost for reinvesting for that particular pool, the transaction cost for swapping the reward token into AVAX, etc.
 
 You do not need to participate in the pool to be able to receive the reinvest reward. Anyone pressing the button and completing the transaction will receive the reward. With that in mind, it can be competitive, so be sure to be quick.
 
 ## Example of the Reinvest Process
 
-So for example, let's say you're in the below pool (Pangolin ETH-AVAX / PEFI).&#x20;
+So for example, let's say you're in the below pool for GMX's liquidity token GLP.&#x20;
 
-![](../.gitbook/assets/screen-shot-2021-05-14-at-9.06.18-pm.png)
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-06 at 14.25.25.png" alt=""><figcaption><p>Example for illustrative purposes only</p></figcaption></figure>
 
-By participating in this pool, you have provided liquidity on Pangolin in the form of ETH and AVAX and you have deposited those LP tokens in the Yield Yak farm. Those LP tokens are then being deposited on Penguin Finance and the rewards for this pool are given in PEFI.
+By participating in this pool, you have provided liquidity on GMX in the form of GLP, their LP token and you have deposited those LP tokens in the Yield Yak farm. Those LP tokens are then staked on GMX and the rewards for this pool are given in AVAX.
 
-A reinvestor presses the button when there is a pending balance of 100 PEFI.
+A reinvestor presses the button when there is a pending balance of **100 AVAX**.
 
-* The reinvestor collects 3 PEFI (given a 3% reward)
-* The treasury collects 5 PEFI (given a 5% fee)
-* The remaining PEFI are reinvested
+* The reinvestor collects 0.05 AVAX (given a 0.05% reward)
+* Yak's ARC contract collects 9.95 AVAX (given 10% fee including reinvest reward)
+* 90 AVAX are reinvested
 
-The remaining PEFI are sold for ETH and AVAX, added to Pangolin LP tokens and then deposited back in the pool.
+The remaining AVAX (or ETH) are sold for GLP and then deposited back in the pool.
 
 ## More information
 
@@ -58,8 +58,5 @@ Fees are usually between 5-10% of the reward tokens. Fees are variable and chang
 1. **Reinvest Reward** - paid to reinvestor who presses the button
 2. **Admin fee** - collected by Yield Yak and automatically redistributed to YAK Holders, its treasury, and contributors.
 
-
-
 Yield Yak enforces no deposit or withdraw fees (although the underlying farms may).
 
-&#x20;&#x20;

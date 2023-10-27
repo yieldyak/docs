@@ -1,7 +1,20 @@
 ---
-description: Earn native yield from validating the Avalanche network with yyAVAX
-cover: ../.gitbook/assets/Liquid Staking_Medium_1400x935px.jpg
-coverY: -66
+cover: ../.gitbook/assets/liquid staking banner (1).jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🚰 Liquid Staking

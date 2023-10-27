@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
+* [👋 Welcome to Yield Yak](README.md)
 
 ## For Yield Farmers <a href="#for-farmers" id="for-farmers"></a>
 
@@ -13,7 +13,7 @@
   * [Underlying Assets](for-farmers/risks/underlying.md)
 * [🚁 Support](for-farmers/support/README.md)
   * [Stuck Transactions](for-farmers/support/stuck-transactions.md)
-  * [Manual Withdrawal](for-farmers/support/manual-withdrawal.md)
+  * [Manual Withdrawal](for-farmers/support/emergency-withdrawal.md)
 * [Farms](https://yieldyak.com/farms)
 
 ## For Traders
@@ -40,7 +40,6 @@
 
 * [👨💻 Integrations](for-developers/integrations.md)
 * [🐛 Bug Bounty](for-developers/bug-bounty.md)
-* [🅰 Avalanche Rush Incentives](for-developers/avalanche-rush-incentives.md)
 * [Yak Devs Telegram](https://t.me/yakdevs)
 * [GitHub](https://github.com/yieldyak)
 

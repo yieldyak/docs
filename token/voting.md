@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🗳 Voting
 
 ## Voting with YAK <a href="#voting" id="voting"></a>
@@ -7,6 +21,8 @@ YAK is the native governance token for Yield Yak. Holders of staked YAK and any 
 Yield Yak uses decentralized voting system from [Snapshot.org](https://snapshot.org/).&#x20;
 
 * [**Yield Yak’s Voting Page**](https://vote.yieldyak.com/)
+
+<figure><img src="../.gitbook/assets/vote twitter (1).jpeg" alt=""><figcaption><p>YAK is used to vote on important protocol decisions. </p></figcaption></figure>
 
 ## vYAK, Your Voting Power <a href="#a825" id="a825"></a>
 
