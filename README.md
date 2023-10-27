@@ -84,4 +84,4 @@ If you are not sure about something, ask our community.
 * [Discord](https://discord.gg/jspsPWf6Mr)
 * [Telegram](https://t.me/yieldyak)
 * [Twitter](https://twitter.com/yieldyak\_)
-* Email (Marketing Purposes): YakContributors@proton.me&#x20;
+* Email for Verifications: yakcontributors@proton.me
