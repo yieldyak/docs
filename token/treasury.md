@@ -105,15 +105,13 @@ Previous address: `0x73F2EE05E02c972a23222e60Bd08ED66dc89D7a5`
 
 ### 🌱 YY Ecosystem
 
-Holds ecosystem funds, used to support initiatives in Avalanche DeFi and Yield Yak ecosystems. Spent at the discretion of the team, similar in nature to a marketing budget.
+Holds ecosystem funds, used to support initiatives in Yield Yak ecosystems. Spent at the discretion of the team, similar in nature to a marketing budget.
 
 `0x78cc64Cc16e38d2BFA42F312333Cd93aebB22b02`
 
 <details>
 
 <summary>3 of 5 Multisig</summary>
-
-
 
 * **Yak Man**, Core
 * **Snow Yak**, Core
@@ -124,6 +122,24 @@ Holds ecosystem funds, used to support initiatives in Avalanche DeFi and Yield Y
 </details>
 
 Previous address: `0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e`
+
+### 👷 YY Operations
+
+Used to execute special smart contract operations for Yield Yak strategies.&#x20;
+
+0xEA3e895b0696e161C68486Ee2F85e6Cc6ef962d0
+
+<details>
+
+<summary>3 of 5 Multisig</summary>
+
+* **Yak Man**, Core
+* **Yak Warrior**, Core
+* **Ravageur77,** Core
+* **Simon**, Core
+* **Angus,** Core
+
+</details>
 
 ### 🐃 YY Team
 
