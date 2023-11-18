@@ -1,3 +1,9 @@
+---
+description: >-
+  Reinvests are incentivised so that you never have to worry about compounding
+  yourself.
+---
+
 # 🔁 The Reinvest Button
 
 ## Do I need to press the reinvest button?

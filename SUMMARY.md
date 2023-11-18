@@ -6,6 +6,7 @@
 
 * [👉 Why use Yield Yak?](for-farmers/pool.md)
 * [📈 Returns and Tracking](for-farmers/returns.md)
+* [💸 Compound Interest](for-farmers/compound-interest.md)
 * [🔁 The Reinvest Button](for-farmers/reinvest.md)
 * [⚠ Farming Risks](for-farmers/risks/README.md)
   * [Pool 2](for-farmers/risks/pool-2.md)

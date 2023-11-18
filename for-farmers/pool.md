@@ -20,7 +20,7 @@ layout:
 
 # 👉 Why use Yield Yak?
 
-## Save Time and Earn More Yield
+## Save Time, Gas Costs, and Earn More Yield
 
 Many DeFi protocols pay rewards to users in the form of tokens (farming rewards). Farmers who claim rewards often and compound their deposits maximise their rewards and farming yield. However, most farmers do not reach an optimal level of returns for two reasons:
 
