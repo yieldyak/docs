@@ -59,16 +59,7 @@ The best way to track deposits and growth is to compare your deposited tokens wi
 Services like [debank.com](https://debank.com) provide additional tracking services for Yield Yak positions.
 {% endhint %}
 
-### How can I see the underlying value of my LP tokens?
+## How can I see the underlying value of my LP tokens?
 
 Hover (or tap) the figure under \<My TVL> to see the estimated underlying tokens.
-
-## Timelock Protects Users
-
-Yield Yak farms are protected by a timelock. Timelocks delay the team from making changes or withdrawing funds on behalf of users.
-
-The timelock address is: `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
-
-\
-
 

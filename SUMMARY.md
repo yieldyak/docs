@@ -23,7 +23,7 @@
 
 ## For Yak Holders <a href="#token" id="token"></a>
 
-* [🐃 Token Details](token/details.md)
+* [🐃 YAK Token](token/details.md)
 * [🪙 Using YAK](token/using-yak.md)
 * [🏧 Yak ARC](token/yak-arc.md)
 * [🗳 Voting](token/voting.md)

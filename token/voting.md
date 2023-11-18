@@ -18,7 +18,7 @@ layout:
 
 YAK is the native governance token for Yield Yak. Holders of staked YAK and any staked YAK LPs can participate in protocol decisions and governance.
 
-Yield Yak uses decentralized voting system from [Snapshot.org](https://snapshot.org/).&#x20;
+Yield Yak uses decentralized voting system from [**Snapshot.org**](https://snapshot.org/).&#x20;
 
 * [**Yield Yak’s Voting Page**](https://vote.yieldyak.com/)
 

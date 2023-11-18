@@ -4,6 +4,12 @@ description: Yield Yak allows anyone to distribute platform revenues
 
 # 🏧 Yak ARC
 
+{% hint style="info" %}
+**Avalanche Only**
+
+The following details only apply to Avalanche. There is a similar, but different mechanism available on Arbitrum.
+{% endhint %}
+
 ## Fee Collection
 
 Yield Yak fees are collected by the [**Yak Fee Collector**](treasury.md#yak-fee-collector), a special treasury wallet which allows anyone to see the platform earnings in one place and distribute them according to the network configurations.
