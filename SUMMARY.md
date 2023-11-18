@@ -50,3 +50,4 @@
 * [Telegram](https://t.me/yieldyak)
 * [Medium](https://yieldyak.medium.com/)
 * [Discord](https://discord.gg/Dsdd2nMFud)
+* [Debank](https://debank.com/official/Yield\_Yak)
