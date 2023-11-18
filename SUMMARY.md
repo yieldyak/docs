@@ -1,10 +1,8 @@
 # Table of contents
 
-* [歡迎](README.md)
+## 致挖礦者 <a href="#for-farmers" id="for-farmers"></a>
 
-## 致挖礦者 <a id="for-farmers"></a>
-
-* [為甚麼要使用Yield Yak?](for-farmers/pool.md)
+* [為甚麼要使用Yield Yak?](README.md)
 * [回報及收益追蹤](for-farmers/returns.md)
 * [再投資按鈕](for-farmers/reinvest.md)
 * [挖礦風險](for-farmers/risks/README.md)
@@ -13,11 +11,11 @@
   * [相關資產（Underlying Assets）](for-farmers/risks/underlying.md)
 * [Yield Yak 礦池](https://yieldyak.com/farms)
 
-## 致去中心化交易所交易者 <a id="for-traders"></a>
+## 致去中心化交易所交易者 <a href="#for-traders" id="for-traders"></a>
 
 * [Yield Yak 交易 Alpha](https://yieldyak.com/swap)
 
-## $Yak 代幣 <a id="token"></a>
+## $Yak 代幣 <a href="#token" id="token"></a>
 
 * [代幣詳情](token/dai-bi-xiang-qing.md)
 * [代幣經濟（Tokenomics）](token/tokenomics.md)
@@ -26,11 +24,10 @@
 
 * [漏洞回報獎勵（Bug Bounty）](zhi-kai-fa-zhe/lou-dong-hui-bao-jiang-li-bug-bounty.md)
 
-## 更多資訊 <a id="more-info"></a>
+## 更多資訊 <a href="#more-info" id="more-info"></a>
 
 * [網頁](https://yieldyak.com/)
-* [Twitter](https://twitter.com/yieldyak_)
+* [Twitter](https://twitter.com/yieldyak\_)
 * [Telegram](https://t.me/yieldyak)
 * [Medium](https://yieldyak.medium.com/)
 * [GitHub](https://github.com/yieldyak)
-

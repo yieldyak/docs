@@ -25,7 +25,9 @@ Yield Yak礦池的設計是讓質押資產數目增加。任何的回報都是�
 
 基於無常損失（impermanent loss）以及價格波動，質押資產的數目增加的同時資產換作美金的價值可能會下降。更多資訊：
 
-{% page-ref page="risks/" %}
+{% content-ref url="risks/" %}
+[risks](risks/)
+{% endcontent-ref %}
 
 ## 追蹤收益
 
@@ -39,7 +41,7 @@ Yield Yak礦池的設計是讓質押資產數目增加。任何的回報都是�
 
 ### 如何能看到LP代幣的相關資產（Underlying Asset）數？
 
-將遊標放於（或按）於&lt;我的總鎖定價值&gt;下的數字以觀看估計相關資產數。
+將遊標放於（或按）於<我的總鎖定價值>下的數字以觀看估計相關資產數。
 
 ## 時間鎖定（Timelock）保護用家
 
@@ -47,8 +49,6 @@ Yield Yak礦池皆被時間鎖定所保護。時間鎖定將廷遲團隊代表�
 
 時間鎖定的合約地址為： `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
 
-  
-
-
+\
 
 
