@@ -22,8 +22,8 @@ Using the same example of an ETH - USDC pool earning $ARB rewards: &#x20;
 
 Yield Yak:&#x20;
 
-* Checks for the best $ARB - $ETH price across all available liquidity.  I.e. The swap may be routed through Trader Joe, instead of Uniswap, if Trader Joe offers a better price. &#x20;
-* Checks for best $ARB - USDC price.  In this case, the swap may be routed through a DEX such as WooFi should they have the best price at that moment.&#x20;
+* Checks for the best $ARB - $ETH price across all available liquidity.  I.e. The swap may be routed through Trader Joe, instead of Uniswap, if Trader Joe offers best price. &#x20;
+* Checks for best $ARB - USDC price.  The swap may be routed through WooFi, instead of Uniswap, if WooFi offers best price. &#x20;
 
 Other Auto-Compounders:&#x20;
 
