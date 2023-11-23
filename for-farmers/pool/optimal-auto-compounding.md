@@ -33,4 +33,9 @@ While on any given transaction, the additional rewards may be small, overall the
 
 Yield Yak users simply earn more.
 
+#### Gas Optimisation Balance
+
+Using Yak Swap for reinvests does incur higher gas fees, so in some cases where a rewards-pair has deep & reliable liquidity, routes may be fixed to this liquidity source if the gas-savings are greater than the use of Yak Swap. \
+
+
 [Yak Swap Overview](https://docs.yieldyak.com/for-traders/swap)&#x20;
