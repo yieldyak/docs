@@ -25,7 +25,7 @@ Yield Yak:&#x20;
 * Checks for the best $ARB - $ETH price across all available liquidity.  I.e. The swap may be routed through Trader Joe, instead of Uniswap, if Trader Joe offers a better price on that day. &#x20;
 * Checks for best $ARB - USDC price.  In this case, the swap may be routed the swap through WooFi
 
-Other Auto-Compounders&#x20;
+Other Auto-Compounders:&#x20;
 
 * Sells all $ARB rewards on Uniswap, regardless of price.
 
