@@ -4,7 +4,9 @@
 
 ## For Yield Farmers <a href="#for-farmers" id="for-farmers"></a>
 
-* [👉 Why use Yield Yak?](for-farmers/pool.md)
+* [👉 Why use Yield Yak?](for-farmers/pool/README.md)
+  * [📈 Optimised Auto-Compounding](for-farmers/pool/optimised-auto-compounding.md)
+  * [⚒ Single-Asset Leverage Strategies](for-farmers/pool/single-asset-leverage-strategies.md)
 * [📈 Returns and Tracking](for-farmers/returns.md)
 * [💸 Compound Interest](for-farmers/compound-interest.md)
 * [🔁 The Reinvest Button](for-farmers/reinvest.md)

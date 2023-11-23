@@ -1,6 +1,6 @@
 ---
 description: Earn More Yield, Save Time, and Reduce Variance
-cover: ../.gitbook/assets/Batman_Twitter_Banner (1).jpeg
+cover: ../../.gitbook/assets/Batman_Twitter_Banner (1).jpeg
 coverY: 0
 layout:
   cover:

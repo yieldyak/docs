@@ -32,7 +32,7 @@ Yak Swap provides one-click trade execution with multi-step routes and low slipp
 
 ### Yield Booster
 
-Benefit from Yield Yak's ve-Balances across multiple protocols in order to earn higher yields using Yield Yak than you can on your own.&#x20;
+Benefit from Yield Yak strategies to earn higher yields using Yield Yak than you can on your own.&#x20;
 
 ### Avalanche Liquid Staking Provider
 
@@ -56,8 +56,8 @@ Yield Yak auto-compounds yield farm rewards.
 
 All depositors benefit from the high frequency of Yield Yak compounding. Learn more:
 
-{% content-ref url="for-farmers/pool.md" %}
-[pool.md](for-farmers/pool.md)
+{% content-ref url="for-farmers/pool/" %}
+[pool](for-farmers/pool/)
 {% endcontent-ref %}
 
 ## How do I get started?
