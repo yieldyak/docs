@@ -2,7 +2,7 @@
 description: Yield Yak leverages Yak Swap's smart routing to maximise every single reinvest
 ---
 
-# 💪 Auto-Compounding powered by Yak Swap
+# 💪 Optimal Auto-Compounding
 
 Historically, auto-compounding platforms use fixed routing when reinvesting the socialised rewards in an auto-compounding pool.  An example:&#x20;
 
