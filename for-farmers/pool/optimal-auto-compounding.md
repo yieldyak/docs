@@ -8,7 +8,7 @@ Historically, auto-compounding platforms use fixed routing when reinvesting the 
 
 User deposits in an ETH-USDC pool that accumulates $ARB rewards.  When enough rewards accumulate for a reinvest, the auto-compounder would be configured to use a fixed Decentralised Exchange, such as Uniswap, which upon every reinvest would swap half the ARB rewards for ETH, and half for USDC on.&#x20;
 
-In most cases this does not cause issues, as the liquidity source is deep enough.  However, what happens if liquidity is removed from the Uniswap pool or another DEX offers a better price?  Users in the vault sacrifice returns and lose out on potential yield. &#x20;
+In most cases this does not cause a problem as the liquidity source is deep enough.  However, what happens if liquidity is removed from the Uniswap pool or another DEX offers a better price?  Users in the vault sacrifice returns and lose out on potential yield. &#x20;
 
 Enter Yield Yak.
 
