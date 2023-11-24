@@ -16,7 +16,7 @@ The treasury is managed by committee with funds held in a separately controlled 
 
 ## Treasury Accounts
 
-### :chart\_with\_upwards\_trend: Yak Treasury
+### 🏦 Yak Treasury
 
 Holds treasury funds.&#x20;
 
