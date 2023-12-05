@@ -69,7 +69,7 @@ Before you start using Yield Yak, you will need:
 
 ## Can I lose money?
 
-Yes. Use Yield Yak at your own risk with money you can afford to use. Do you own research. Yield Yak works with auditors [CoinFabrik](https://coinfabrik.com) to periodically audit high-TVL strategies, however not all farms are audited, which is especially true for new ones. &#x20;
+Yes. Use Yield Yak at your own risk with money you can afford to lose. Do your own research. Yield Yak works with auditors [CoinFabrik](https://coinfabrik.com) to periodically audit high-TVL strategies, however not all farms are audited, which is especially true for new ones. &#x20;
 
 Additionally, Yield Yak relies on smart contracts from other platforms which may be unaudited. Any funds lost by other platforms will affect Yield Yak users.
 

@@ -30,7 +30,7 @@ So for example, let's say you're in the below pool for GMX's liquidity token GLP
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-06 at 14.25.25.png" alt=""><figcaption><p>Example for illustrative purposes only</p></figcaption></figure>
 
-By participating in this pool, you have provided liquidity on GMX in the form of GLP, their LP token and you have deposited those LP tokens in the Yield Yak farm. Those LP tokens are then staked on GMX and the rewards for this pool are given in AVAX.
+By participating in this pool, you have deposited your GLP tokens into the Yield Yak farm. Those LP tokens are then staked on GMX and the rewards for this pool are given in AVAX.
 
 A reinvestor presses the button when there is a pending balance of **100 AVAX**.
 
