@@ -20,9 +20,9 @@ layout:
 
 # 👋 Welcome to Yield Yak
 
-## What is Yield Yak?
-
 {% embed url="https://youtu.be/o4IZWGtoI1c" %}
+
+## What is Yield Yak?
 
 ### Auto-Compounder
 
