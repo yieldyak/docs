@@ -22,6 +22,8 @@ layout:
 
 ## What is Yield Yak?
 
+{% embed url="https://youtu.be/o4IZWGtoI1c" %}
+
 ### Auto-Compounder
 
 Farms auto-compound your rewards automatically, saving you both time and gas-fees while you receive the benefits of compound interest.&#x20;
