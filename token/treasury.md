@@ -26,11 +26,10 @@ Holds treasury funds.&#x20;
 
 <details>
 
-<summary>3 of 6 Multisig</summary>
+<summary>3 of 5 Multisig</summary>
 
-* **Yak Man**, Core
-* **Yak Warrior**, Core
 * **Ravageur77**, Core
+* **Angus**, Core
 * **Eric Sulli**, Treasury
 * **MauroG**, Treasury
 * **harry.avax**, Treasury

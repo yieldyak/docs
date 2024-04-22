@@ -6,11 +6,11 @@
 
 * [👉 Why use Yield Yak?](for-farmers/pool/README.md)
   * [💪 Optimal Auto-Compounding](for-farmers/pool/optimal-auto-compounding.md)
-  * [⚒ Single-Asset Leverage Strategies](for-farmers/pool/single-asset-leverage-strategies.md)
+  * [⚒️ Single-Asset Leverage Strategies](for-farmers/pool/single-asset-leverage-strategies.md)
 * [📈 Returns and Tracking](for-farmers/returns.md)
 * [💸 Compound Interest](for-farmers/compound-interest.md)
 * [🔁 The Reinvest Button](for-farmers/reinvest.md)
-* [⚠ Farming Risks](for-farmers/risks/README.md)
+* [⚠️ Farming Risks](for-farmers/risks/README.md)
   * [Pool 2](for-farmers/risks/pool-2.md)
   * [Impermanent Loss](for-farmers/risks/impermanent-loss.md)
   * [Underlying Assets](for-farmers/risks/underlying.md)
@@ -29,7 +29,7 @@
 * [🐃 YAK Token](token/details.md)
 * [🪙 Using YAK](token/using-yak.md)
 * [🏧 Yak ARC](token/yak-arc.md)
-* [🗳 Voting](token/voting.md)
+* [🗳️ Voting](token/voting.md)
 * [💰 Treasury](token/treasury.md)
 * [Stake](https://yieldyak.com/stake)
 
@@ -41,7 +41,7 @@
 
 ## For Developers
 
-* [👨💻 Integrations](for-developers/integrations.md)
+* [👨‍💻 Integrations](for-developers/integrations.md)
 * [🐛 Bug Bounty](for-developers/bug-bounty.md)
 * [Yak Devs Telegram](https://t.me/yakdevs)
 * [GitHub](https://github.com/yieldyak)
