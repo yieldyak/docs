@@ -22,9 +22,7 @@ Fees in the Yak Fee Collector contract can be distributed by anyone using [**Yak
 
 #### Payee Settings
 
-* `Yak Stakers`: 70%
-* `Treasury`: 15%
-* `Contributors`: 15%
+* `Yak Stakers`: 100%
 
 #### Multi-Currency Support
 
