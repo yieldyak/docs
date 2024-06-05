@@ -51,13 +51,21 @@ The canonical chain for YAK is Avalanche, where it was originally deployed. Toda
 
 YAK tokenomics are not affected by the availability of a bridge. Only 10,000 YAK can ever exist with the fixed-supply accounting handled on Avalanche.
 
-* YAK must be locked on Avalanche before it can be minted on Arbitrum
-* YAK must be burned on Arbitrum before it can be unlocked on Avalanche
+* YAK must be locked on Avalanche before it can be minted on Arbitrum or Mantle
+* YAK must be burned on Arbitrum or Mantle before it can be unlocked on Avalanche
 {% endhint %}
 
-### Token Details
+### Token Details - Arbitrum
 
 * Chain: `Arbitrum`
+* Name: `Yak Token`
+* Symbol: `YAK`
+* Decimals: `18`
+* Address: `0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696`
+
+### Token Details - Mantle
+
+* Chain: `Mantle`
 * Name: `Yak Token`
 * Symbol: `YAK`
 * Decimals: `18`

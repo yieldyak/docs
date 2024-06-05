@@ -13,7 +13,7 @@ There are many ways to use YAK. This article covers some of the best options for
 Single-sided stakers earn AVAX and ETH ewards by depositing YAK tokens.
 
 1. Go to [**YY Stake**](https://yieldyak.com/stake) and locate the YAK staking pool
-2. Deposit YAK -> Earn AVAX/ETH
+2. Deposit YAK -> Earn AVAX/ETH/MNT
 
 ![$YAK Single Sided Staking](<../.gitbook/assets/Screenshot 2023-10-06 at 14.38.23.png>)
 
