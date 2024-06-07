@@ -4,15 +4,11 @@ description: The YY approach to treasury and listing of related accounts
 
 # 💰 Treasury
 
-## Opinionated Treasury
+## An Opinionated Treasury
 
-The Opinionated Treasury takes a generally bullish stance on DeFi (which YY depends on) while also contributing TVL and fees to the platform and ecosystem.
+The YY Treasury takes a generally bullish stance on DeFi (which YY depends on) while also contributing TVL and fees to the platform and ecosystem.
 
-{% embed url="https://yieldyak.medium.com/the-opinionated-treasury-9c91574dc93f" %}
-The Opinionated Treasury
-{% endembed %}
-
-The treasury is managed by committee with funds held in a separately controlled multi-sig and other contracts and accounts.
+The treasury is managed by committee with funds held in a separately controlled multi-sig. Occasionally some Treasury-controlled funds will move to other contracts and accounts to facilitate execution.&#x20;
 
 ## Treasury Accounts
 
