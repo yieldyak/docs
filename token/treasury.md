@@ -20,16 +20,19 @@ Holds treasury funds.&#x20;
   * [Explorer](https://snowtrace.io/address/0x5925C5c6843A8F67f7Ef2b55Db1f5491573C85Eb), [DeBank](https://debank.com/profile/0x5925c5c6843a8f67f7ef2b55db1f5491573c85eb)
 * Arbitrum: `0xF5bF7e4B18D6d4dFB92bc954fB3485B22eb36aA0`
   * [Explorer](https://arbiscan.io/address/0xf5bf7e4b18d6d4dfb92bc954fb3485b22eb36aa0), [DeBank](https://debank.com/profile/0xf5bf7e4b18d6d4dfb92bc954fb3485b22eb36aa0)
+* Mantle: [`0x2235d025B6455420b099cF045DC23b60ab129841`](#user-content-fn-1)[^1]
+  * [Explorer](https://mantlescan.xyz/address/0x2235d025b6455420b099cf045dc23b60ab129841), [DeBank](https://debank.com/profile/0x2235d025b6455420b099cf045dc23b60ab129841)
 
 <details>
 
-<summary>3 of 5 Multisig</summary>
+<summary>3 of 6 Multisig</summary>
 
 * **Ravageur77**, Core
 * **Angus**, Core
 * **Eric Sulli**, Treasury
 * **MauroG**, Treasury
 * **harry.avax**, Treasury
+* **Deployer**
 
 </details>
 
@@ -70,7 +73,28 @@ May temporarily hold treasury funds. Has special rights to claim revenue on beha
 * `0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44`
   * [Explorer](https://snowtrace.io/address/0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44/transactions), [DeBank](https://debank.com/profile/0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44?chain=avax)
 
-## Other Accounts
+### 👷 YY Operations
+
+Used to execute special smart contract operations for Yield Yak strategies.&#x20;
+
+* Avalanche: `0xEA3e895b0696e161C68486Ee2F85e6Cc6ef962d0`
+* Arbitrum: `0x599850287dD42dB3137EF82F70C5dcaBC690d524`
+
+<details>
+
+<summary>3 of 5 Multisig</summary>
+
+* **Yak Man**, Core
+* **Yak Warrior**, Core
+* **Ravageur77,** Core
+* **Simon**, Core
+* **Angus,** Core
+
+</details>
+
+## Previous Accounts
+
+Below are wallets which were previously used to support Yield Yak which are no longer in use, but shared for transparency.&#x20;
 
 ### 💪 YY Contributors
 
@@ -94,7 +118,7 @@ Previous address: `0x73F2EE05E02c972a23222e60Bd08ED66dc89D7a5`
 
 ### 🌱 YY Ecosystem
 
-Holds ecosystem funds, used to support initiatives in Yield Yak ecosystems. Spent at the discretion of the team, similar in nature to a marketing budget.
+Helds ecosystem funds, used to support initiatives in Yield Yak ecosystems. Spent at the discretion of the team, similar in nature to a marketing budget.
 
 * Avalanche: `0x78cc64Cc16e38d2BFA42F312333Cd93aebB22b02`
 
@@ -112,28 +136,11 @@ Holds ecosystem funds, used to support initiatives in Yield Yak ecosystems. Spen
 
 Previous address: `0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e`
 
-### 👷 YY Operations
-
-Used to execute special smart contract operations for Yield Yak strategies.&#x20;
-
-* Avalanche: `0xEA3e895b0696e161C68486Ee2F85e6Cc6ef962d0`
-* Arbitrum: `0x599850287dD42dB3137EF82F70C5dcaBC690d524`
-
-<details>
-
-<summary>3 of 5 Multisig</summary>
-
-* **Yak Man**, Core
-* **Yak Warrior**, Core
-* **Ravageur77,** Core
-* **Simon**, Core
-* **Angus,** Core
-
-</details>
-
 ### 🐃 YY Team
 
-Holds team tokens.
+Hold team tokens.
 
 * `0x1Dd981D51f10f2Dd79f8a0796f30a577B06E79d2`
   * [Explorer](https://cchain.explorer.avax.network/address/0x1Dd981D51f10f2Dd79f8a0796f30a577B06E79d2/transactions)
+
+[^1]: 
