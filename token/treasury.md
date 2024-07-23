@@ -79,6 +79,7 @@ Used to execute special smart contract operations for Yield Yak strategies.&#x20
 
 * Avalanche: `0xEA3e895b0696e161C68486Ee2F85e6Cc6ef962d0`
 * Arbitrum: `0x599850287dD42dB3137EF82F70C5dcaBC690d524`
+* Mantle: `0x75F5DBC676484CA0e2487ee01792513815AfB8f5`
 
 <details>
 
