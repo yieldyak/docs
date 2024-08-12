@@ -83,7 +83,7 @@ Additionally, Yield Yak relies on smart contracts from other platforms which may
 
 If you are not sure about something, ask our community.
 
-* [Discord](https://discord.gg/jspsPWf6Mr)
+* [Discord](https://discord.gg/qJ2wxEJ2h5)
 * [Telegram](https://t.me/yieldyak)
 * [Twitter](https://twitter.com/yieldyak\_)
 * Email for Verifications: yakcontributors@proton.me
