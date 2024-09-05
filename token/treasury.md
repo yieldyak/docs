@@ -36,20 +36,6 @@ Holds treasury funds.&#x20;
 
 </details>
 
-Previous address: `0x047eDAC7e9ac7B22B941175Bf25adE95288286Ff`
-
-<details>
-
-<summary>3 of 5 Multisig</summary>
-
-* **Yak Man**, Core
-* **Snow Yak**, Core
-* **Mark**, Community (Avalaunch)
-* **Sarp**, Community (Markr)
-* **0xmuloc**, Community (Trader Joe)
-
-</details>
-
 ### 💰 Yak Fee Collector
 
 Collects revenue in AVAX and tokens. Holds treasury funds which have not been distributed yet.
@@ -63,8 +49,6 @@ Learn more about fee distribution:
 {% content-ref url="yak-arc.md" %}
 [yak-arc.md](yak-arc.md)
 {% endcontent-ref %}
-
-Previous address: `0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7`
 
 ### 🧑‍💻 Yak Deployer
 
