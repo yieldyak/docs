@@ -1,12 +1,12 @@
 ---
-description: The YY approach to treasury and listing of related accounts
+description: The YY approach to treasury management and listing of related accounts.
 ---
 
 # 💰 Treasury
 
 ## An Opinionated Treasury
 
-The YY Treasury takes a generally bullish stance on DeFi (which YY depends on) while also contributing TVL and fees to the platform and ecosystem.
+The Treasury takes a generally bullish stance on DeFi (which Yield Yak depends on) while also contributing TVL and fees to the platform and ecosystem.
 
 The treasury is managed by committee with funds held in a separately controlled multi-sig. Occasionally some Treasury-controlled funds will move to other contracts and accounts to facilitate execution.&#x20;
 
@@ -92,56 +92,5 @@ Used to execute special smart contract operations for Yield Yak strategies.&#x20
 * **Angus,** Core
 
 </details>
-
-## Previous Accounts
-
-Below are wallets which were previously used to support Yield Yak which are no longer in use, but shared for transparency.&#x20;
-
-### 💪 YY Contributors
-
-Holds contributors funds, used to support contributors of the Yield Yak ecosystem. Spent at the discretion of the team, similar in nature to a development budget.
-
-* Avalanche: `0xD221FB68f3B15308B4Ea1bD278b3057386330520`
-
-<details>
-
-<summary>3 of 5 Multisig</summary>
-
-* **Yak Man**, Core
-* **Yak Warrior**, Core
-* **Ravageur77**, Core
-* **Angus**, Core
-* **Simon,** Core
-
-</details>
-
-Previous address: `0x73F2EE05E02c972a23222e60Bd08ED66dc89D7a5`
-
-### 🌱 YY Ecosystem
-
-Helds ecosystem funds, used to support initiatives in Yield Yak ecosystems. Spent at the discretion of the team, similar in nature to a marketing budget.
-
-* Avalanche: `0x78cc64Cc16e38d2BFA42F312333Cd93aebB22b02`
-
-<details>
-
-<summary>3 of 5 Multisig</summary>
-
-* **Yak Man**, Core
-* **Snow Yak**, Core
-* **SlowCheetah**, Core
-* **Dylan**, Core
-* **50ft**, Core
-
-</details>
-
-Previous address: `0x383BE9AeD6d91AF96E4c02dc6301cb0adae7422e`
-
-### 🐃 YY Team
-
-Hold team tokens.
-
-* `0x1Dd981D51f10f2Dd79f8a0796f30a577B06E79d2`
-  * [Explorer](https://cchain.explorer.avax.network/address/0x1Dd981D51f10f2Dd79f8a0796f30a577B06E79d2/transactions)
 
 [^1]: 
