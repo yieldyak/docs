@@ -120,23 +120,3 @@ The full list of airdrop recipients is available [here](https://github.com/yield
 ### Unclaimed Airdrop Tokens
 
 Airdrop recipients were provided a 30-day window to claim tokens. Following the deadline, the remaining tokens were returned to the treasury.
-
-## Mini Yak
-
-Mini YAK (mYAK) is a wrapped version of YAK. Mini Yak introduces no changes to the YAK supply or tokenomics. Read more about Mini YAK:
-
-{% embed url="https://yieldyak.medium.com/mini-yak-a022c2e607d7" %}
-
-### Conversion Rate
-
-mYAK is pegged at a 1,000,000:1 ratio with YAK. The conversion rate is always available in a smart contract for both directions, although you may find better rates with [**Yak Swap**](https://yieldyak.com/swap).
-
-### Token Details
-
-* Chain: `Avalanche`
-* Name: `Mini YAK`
-* Symbol: `mYAK`
-* Decimals: `12`
-* Address: `0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604`
-* Total Supply: `10,000,000,000` (maximum)
-
