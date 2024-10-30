@@ -33,12 +33,6 @@
 * [💰 Treasury](token/treasury.md)
 * [Stake](https://yieldyak.com/stake)
 
-## FOR yyAVAX HOLDERS
-
-* [🚰 Liquid Staking](for-yyavax-holders/liquid-staking.md)
-* [🌾 Using yyAVAX](for-yyavax-holders/using-yyavax.md)
-* [Liquid Stake](https://yieldyak.com/liquid-staking)
-
 ## For Developers
 
 * [👨‍💻 Integrations](for-developers/integrations.md)

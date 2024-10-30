@@ -36,10 +36,6 @@ Yak Swap provides one-click trade execution with multi-step routes and low slipp
 
 Benefit from Yield Yak strategies to earn higher yields using Yield Yak than you can on your own.&#x20;
 
-### Avalanche Liquid Staking Provider
-
-yyAVAX lets you earn native yield for securing the Avalanche Network without sacrificing DeFi utility.&#x20;
-
 ### Community Driven
 
 Yield Yak is a community-focused project. The Yield Yak community have built and maintained the best and most diverse yield optimiser on the market.
