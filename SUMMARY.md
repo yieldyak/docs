@@ -19,6 +19,12 @@
   * [Manual Withdrawal](for-farmers/support/manual-withdrawal.md)
 * [Farms](https://yieldyak.com/farms)
 
+***
+
+* [Milk Vaults](milk-vaults/README.md)
+  * [Overview](milk-vaults/overview.md)
+  * [rsAVAX - Suzaku Restaking](milk-vaults/rsavax-suzaku-restaking.md)
+
 ## For Traders
 
 * [👉 Why use Yak Swap?](for-traders/swap.md)
@@ -43,8 +49,8 @@
 ## More Info
 
 * [Website](https://yieldyak.com/)
-* [Twitter](https://twitter.com/yieldyak\_)
+* [Twitter](https://twitter.com/yieldyak_)
 * [Telegram](https://t.me/yieldyak)
 * [Medium](https://yieldyak.medium.com/)
 * [Discord](https://discord.gg/Dsdd2nMFud)
-* [Debank](https://debank.com/official/Yield\_Yak)
+* [Debank](https://debank.com/official/Yield_Yak)
