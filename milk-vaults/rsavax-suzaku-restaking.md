@@ -5,6 +5,8 @@ icon: phoenix-framework
 
 # rsAVAX - Suzaku Restaking
 
+(COMING SOON!!!)
+
 Yield Yak's Suzaku Restaking Vaults enables users to participate in Suzaku's decentralized marketplace for L1 economic security.
 
 ### rsAVAX&#x20;
