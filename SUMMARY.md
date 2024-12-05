@@ -21,9 +21,12 @@
 
 ***
 
-* [Milk Vaults](milk-vaults/README.md)
-  * [Overview](milk-vaults/overview.md)
-  * [rsAVAX - Suzaku Restaking](milk-vaults/rsavax-suzaku-restaking.md)
+* [Page](page.md)
+
+## Milk Vaults
+
+* [Overview](milk-vaults/overview.md)
+* [rsAVAX - Suzaku Restaking](milk-vaults/rsavax-suzaku-restaking.md)
 
 ## For Traders
 
