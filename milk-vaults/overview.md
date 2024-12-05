@@ -1,8 +1,10 @@
 ---
+icon: glass
 description: >-
   Milk Vaults are strategically managed vaults with specific investment
   strategies
-icon: glass
+cover: ../.gitbook/assets/082_Introducing Milk Vaults_V6_Twitter_1200x675px.jpg
+coverY: 0
 ---
 
 # Overview
