@@ -1,6 +1,6 @@
 ---
-description: Earn Suzaku Points & be rewarded for validating Avalanche L1s
 icon: phoenix-framework
+description: Earn Suzaku Points & be rewarded for validating Avalanche L1s
 ---
 
 # rsAVAX - Suzaku Restaking
@@ -33,18 +33,15 @@ In the future L1 Validation Rewards will also be earned.&#x20;
 
 **Fees**
 
-* A 2% platform fee is taken for vault management
-* Fee is taken when the vault rebalances positions and is reflected in your balance
+* TBC
 
 #### Withdrawals
 
-TODO
+TBC
 
 #### Strategists
 
-3 of 5 Multi-Sig address: \<TODO>
-
-TODO (signers)
+TBC
 
 **Risk Considerations**
 
