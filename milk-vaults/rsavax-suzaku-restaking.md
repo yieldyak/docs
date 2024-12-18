@@ -33,15 +33,13 @@ In the future L1 Validation Rewards will also be earned.&#x20;
 
 **Fees**
 
-* TBC
+There are currently no fees.  Yield Yak pays the costs for executing transactions on behalf of vault depositors.  However, once Yield Yak beings its role as Curator and is deploying capital to secure L1s, a 2% AUM fee will be implemented.  Advance notice will be given in this case.&#x20;
 
 #### Withdrawals
 
 TBC
 
-#### Strategists
-
-TBC
+####
 
 **Risk Considerations**
 
