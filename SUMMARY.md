@@ -19,10 +19,6 @@
   * [Manual Withdrawal](for-farmers/support/manual-withdrawal.md)
 * [Farms](https://yieldyak.com/farms)
 
-***
-
-* [Page](page.md)
-
 ## Milk Vaults
 
 * [Intelligent On-Chain Yield](milk-vaults/intelligent-on-chain-yield.md)

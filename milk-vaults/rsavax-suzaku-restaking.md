@@ -33,17 +33,13 @@ In the future L1 Validation Rewards will also be earned.&#x20;
 
 **Fees**
 
-There are currently no fees.  Yield Yak pays the costs for executing transactions on behalf of vault depositors.  However, once Yield Yak beings its role as Curator and is deploying capital to secure L1s, a 2% AUM fee will be implemented.  Advance notice will be given in this case.&#x20;
+There are currently no fees.  Yield Yak pays the costs for executing transactions on behalf of vault depositors.  However, once Yield Yak beings its role as Curator and is deploying capital to secure L1s, users should expect a fee to be added to the vault.  Advance notice will be given in this case.&#x20;
 
 #### Withdrawals
 
-TBC
-
-####
+Users can request a withdrawal at any time.  Withdrawals may take up to 5 hours to be fulfilled.  Once fulfil users will receive sAVAX directly into their wallet without need to claim.&#x20;
 
 **Risk Considerations**
 
-* Beta product status
 * Smart contract risks (Yield Yak and Suzaku)
 * Market-dependent returns
-
