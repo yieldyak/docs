@@ -25,7 +25,7 @@
 
 ## Milk Vaults
 
-* [Overview](milk-vaults/overview.md)
+* [Intelligent On-Chain Yield](milk-vaults/intelligent-on-chain-yield.md)
 * [rsAVAX - Suzaku Restaking](milk-vaults/rsavax-suzaku-restaking.md)
 
 ## For Traders
