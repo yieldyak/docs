@@ -17,7 +17,7 @@ Milk represents our vision for managed & intelligent DeFi exposure, combining Yi
 
 **Architecture**
 
-Milk Vaults utilise the MIT License version of the [Boring Vault smart contract architecture](https://docs.veda.tech/architecture-overview/boringvault) developed by Veda Labs. The MIT License version Boring Vault's audit can be reviewed [here](https://github.com/Se7en-Seas/boring-vault/tree/main/audit). Yield Yak is not associated with Veda Labs in any way. \
+Milk Vaults utilise the MIT License version of the [Boring Vault ](https://docs.veda.tech/architecture-overview/boringvault) smart contract architecture developed by Veda Labs. The MIT License version Boring Vault's audit can be reviewed [here](https://github.com/Se7en-Seas/boring-vault/tree/main/audit). Yield Yak is not associated with Veda Labs in any way. \
 \
 **Milk Points**\
 Milk Vault deposits earn Milk Points, our new system for tracking contributions to the Milk ecosystem. Earn 3 Milk Points daily for every $1 of value deposited. Milk Points receive monthly YAK token distributions, allowing vault users to participate in the broader Yield Yak ecosystem.\
