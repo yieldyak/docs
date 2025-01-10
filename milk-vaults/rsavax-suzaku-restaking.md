@@ -11,33 +11,31 @@ Yield Yak's Suzaku Restaking Vaults enables users to participate in Suzaku's dec
 
 #### Deposit Token
 
-* Vault takes in sAVAX,  in return users receive rsAVAX (restaked sAVAX)
-* rsAVAX is both a receipt token and a token which at some point may have further utility in DeFi.&#x20;
+* Vault takes in sAVAX,  in return users receive rsAVAX (restaked sAVAX) at a 1:1 ratio
 
 **Strategy**
 
 * The vault functions as Suzaku's first 'Curator'
-* Deploys sAVAX as collateral for L1 validation
+* Deploys sAVAX on Suzaku's marketplace to provide cryptoeconomic security to Avalanche L1s.
 * Yield Yak strategists manage deployment decisions
 * Auto-compounds rewards back into the vault
 
-**Current Rewards**
+**Rewards**
 
 * Base sAVAX staking yield
-* Earn Suzaku Points at a 1.5x Multiplier
-* E
-
-In the future L1 Validation Rewards will also be earned.&#x20;
+* Suzaku Points at a 2.7x Multiplier
+* Milk Points at 1x Multiplier
+* Future rewards from securing Avalanche L1s
 
 **Fees**
 
-There are currently no fees.  Yield Yak pays the costs for executing transactions on behalf of vault depositors.  However, once Yield Yak begins deploying capital to secure L1s, users should expect a fee to be added to the vault.  Advance notice will be given in this case.&#x20;
+The rsAVAX vault launches with zero fees. A fee switch will only be triggered when Yield Yak can begin actively curating deposits in Suzaku's marketplace.
 
 #### Withdrawals
 
-Users can request a withdrawal at any time.  Withdrawals may take up to 5 hours to be fulfilled.  Once fulfil users will receive sAVAX directly into their wallet without need to claim.&#x20;
+Users can request a withdrawal at any time and it will be automatically processed to their wallet within 30 mins.  5 minutes after withdrawal users can also manually complete the withdrawal from the UI should they wish to.&#x20;
 
 **Risk Considerations**
 
 * Smart contract risks (Yield Yak and Suzaku)
-* Market-dependent returns
+* Rewards (not deposits) can be lost if operators that Yield Yak delegate collateral to suffer from downtime.
