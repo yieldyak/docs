@@ -5,8 +5,6 @@ description: Earn Suzaku Points & be rewarded for validating Avalanche L1s
 
 # rsAVAX - Suzaku Restaking
 
-(COMING SOON!!!)
-
 Yield Yak's Suzaku Restaking Vaults enables users to participate in Suzaku's decentralized marketplace for L1 economic security.
 
 ### rsAVAX&#x20;
@@ -26,8 +24,8 @@ Yield Yak's Suzaku Restaking Vaults enables users to participate in Suzaku's dec
 **Current Rewards**
 
 * Base sAVAX staking yield
-* Enhanced Suzaku Points allocation
-  * 5 Suzaku Points per day per $USD value (vs. 3 points directly on Suzaku)
+* Earn Suzaku Points at a 1.5x Multiplier
+* E
 
 In the future L1 Validation Rewards will also be earned.&#x20;
 

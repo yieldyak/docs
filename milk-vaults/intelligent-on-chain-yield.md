@@ -7,7 +7,7 @@ coverY: 0
 
 # Intelligent On-Chain Yield
 
-Milk Vaults are managed DeFi vaults operated by Yield Yak who act as DeFi strategists. Each vault follows specific risk parameters and investment strategies, with full transparency on fund deployment, rewards, and withdrawal conditions.
+Milk represents our vision for managed & intelligent DeFi exposure, combining Yield Yak's strategic expertise with institutional-grade infrastructure. Built with the battle-tested [Boring Vault](https://docs.veda.tech) architecture —Milk offers users simple access to sophisticated yield strategies with full transparency. In addition to the liquid restaking vaults such as rsAVAX, upcoming Milk vaults will focus on the intersection of AI and DeFi on Avalanche with an AI-agent managed vault coming to Avalanche users soon.
 
 **Key Features**
 
@@ -19,4 +19,4 @@ Milk Vaults are managed DeFi vaults operated by Yield Yak who act as DeFi strate
 
 **Architecture**
 
-Milk Vaults utilise the MIT License version of the Boring Vault architecture developed by [Veda Labs](https://docs.veda.tech/).  The MIT License version Boring Vault's audit can be reviewed [here](https://github.com/Se7en-Seas/boring-vault/tree/main/audit).
+Milk Vaults utilise the MIT License version of the Boring Vault smart contract architecture developed by [Veda Labs](https://docs.veda.tech/).  The MIT License version Boring Vault's audit can be reviewed [here](https://github.com/Se7en-Seas/boring-vault/tree/main/audit). Yield Yak is not associated with Veda Labs in any way.&#x20;
