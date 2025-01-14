@@ -2,6 +2,11 @@
 
 * [👋 Welcome to Yield Yak](README.md)
 
+## Milk Vaults
+
+* [Intelligent On-Chain Yield](milk-vaults/intelligent-on-chain-yield.md)
+* [rsAVAX - Suzaku Restaking](milk-vaults/rsavax-suzaku-restaking.md)
+
 ## For Yield Farmers <a href="#for-farmers" id="for-farmers"></a>
 
 * [👉 Why use Yield Yak?](for-farmers/pool/README.md)
@@ -19,11 +24,6 @@
   * [Manual Withdrawal](for-farmers/support/manual-withdrawal.md)
 * [Farms](https://yieldyak.com/farms)
 
-## Milk Vaults
-
-* [Intelligent On-Chain Yield](milk-vaults/intelligent-on-chain-yield.md)
-* [rsAVAX - Suzaku Restaking](milk-vaults/rsavax-suzaku-restaking.md)
-
 ## For Traders
 
 * [👉 Why use Yak Swap?](for-traders/swap.md)
@@ -33,9 +33,9 @@
 
 * [🐃 YAK Token](token/details.md)
 * [🪙 Using YAK](token/using-yak.md)
+* [💰 Treasury](token/treasury.md)
 * [🏧 Yak ARC](token/yak-arc.md)
 * [🗳️ Voting](token/voting.md)
-* [💰 Treasury](token/treasury.md)
 * [Stake](https://yieldyak.com/stake)
 
 ## For Developers
