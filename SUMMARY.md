@@ -5,7 +5,7 @@
 ## Milk Vaults
 
 * [Intelligent On-Chain Yield](milk-vaults/intelligent-on-chain-yield.md)
-* [rsAVAX - Suzaku Restaking](milk-vaults/rsavax-suzaku-restaking.md)
+* [Suzaku Restaking](milk-vaults/suzaku-restaking.md)
 
 ## For Yield Farmers <a href="#for-farmers" id="for-farmers"></a>
 
