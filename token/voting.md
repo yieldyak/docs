@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# 🗳 Voting
+# 🗳️ Voting
 
 ## Voting with YAK <a href="#voting" id="voting"></a>
 
@@ -28,7 +14,7 @@ Yield Yak uses decentralized voting system from [**Snapshot.org**](https://snaps
 
 Your voting power is determined by how many YAK you have staked. The balance is called vYAK (Voting YAK). vYAK is non-transferable and based on the number of staked YAK you have (1 YAK ≈ 1,000 vYAK). You can see your vYAK by connecting your wallet to Yield Yak.
 
-## Voting on Proposals <a href="#6199" id="6199"></a>
+## Voting on Proposals <a href="#id-6199" id="id-6199"></a>
 
 When a proposal is created and put forth to the community, members with vYAK can signal their preferences.
 

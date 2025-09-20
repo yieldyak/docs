@@ -4,8 +4,9 @@
 
 ## Milk Vaults
 
-* [Intelligent On-Chain Yield](milk-vaults/intelligent-on-chain-yield.md)
-* [Suzaku Restaking](milk-vaults/suzaku-restaking.md)
+* [Intelligent Vaults](milk-vaults/intelligent-vaults.md)
+* [Suzaku Restaking (LRTs)](milk-vaults/suzaku-restaking-lrts.md)
+* [Returns & Fee Structure](milk-vaults/returns-and-fee-structure.md)
 
 ## For Yield Farmers <a href="#for-farmers" id="for-farmers"></a>
 

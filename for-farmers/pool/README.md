@@ -2,20 +2,6 @@
 description: Earn More Yield, Save Time, and Reduce Variance
 cover: ../../.gitbook/assets/Batman_Twitter_Banner (1).jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👉 Why use Yield Yak?

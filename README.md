@@ -2,20 +2,6 @@
 description: Earn more yield. Tools for DeFi users on Avalanche and Arbitrum.
 cover: .gitbook/assets/twitter banner.jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 Welcome to Yield Yak
@@ -81,5 +67,5 @@ If you are not sure about something, ask our community.
 
 * [Discord](https://discord.gg/qJ2wxEJ2h5)
 * [Telegram](https://t.me/yieldyak)
-* [Twitter](https://twitter.com/yieldyak\_)
+* [Twitter](https://twitter.com/yieldyak_)
 * Email for Verifications: yakcontributors@proton.me

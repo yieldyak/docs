@@ -1,17 +1,17 @@
 ---
+description: Earn Milk Points, Suzaku Points & be rewarded for validating Avalanche L1s
 icon: phoenix-framework
-description: Earn Suzaku Points & be rewarded for validating Avalanche L1s
 ---
 
-# Suzaku Restaking
+# Suzaku Restaking (LRTs)
 
 Yield Yak's Suzaku Restaking Vaults enables users to participate in Suzaku's decentralized marketplace for L1 economic security.
 
-### rsAVAX rggAVAX rBTC.b&#x20;
+### rsAVAX, rstAVAX, and rBTC.b&#x20;
 
 #### Deposit Token
 
-* Vault takes in sAVAX / ggAVAX /BTC.b and in return users receive a restaked version (rsAVAX, rggAVAX, rBTC.b) at a 1:1 ratio
+* rsAVAX accepts sAVAX or native AVAX, rstAVAX accepts stAVAX , and rBTC.b accepts BTC.b.  In return users receive a restaked version (rsAVAX, rstAVAX, rBTC.b) at a 1:1 ratio
 
 **Strategy**
 
@@ -22,14 +22,14 @@ Yield Yak's Suzaku Restaking Vaults enables users to participate in Suzaku's dec
 
 **Rewards**
 
-* Base native yield (in case of rsAVAX and rggAVAX)
-* Suzaku Points at a 2.7x Multiplier
-* Milk Points at 1x Multiplier
+* Base native yield (in case of rsAVAX and rstAVAX)
+* Benqi Lending Yield (in case of rsAVAX exclusively)
+* Suzaku Points
+* Milk Points (see specific vault for multiplier)
 * Future rewards from securing Avalanche L1s
 
-**Fees**
-
-Suzaku Vaults launch with zero fees. A fee switch will only be triggered when Yield Yak can begin actively curating deposits in Suzaku's marketplace.
+**Milk Points**\
+Milk Vault deposits earn Milk Points, our system for tracking contributions to the Milk ecosystem. Earn at minimum 3 Milk Points daily for every $1 of value deposited. Milk Points receive monthly YAK token distributions at the start of every month.&#x20;
 
 #### Withdrawals
 

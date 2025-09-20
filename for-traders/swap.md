@@ -4,20 +4,6 @@ description: >-
   execute with one click.
 cover: ../.gitbook/assets/YY Swap Logo_V7 (1).png
 coverY: 20
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👉 Why use Yak Swap?
